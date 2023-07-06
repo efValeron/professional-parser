@@ -34,7 +34,7 @@ with open(file_path, 'r') as f:
   file_rdln = f.readlines()
   
   try:
-    articles = list(set([article.strip('\n').strip('.') for article in file_rdln]))
+    articles = list(set([article.strip('\n').strip('.') for article in file_rdln if article.strip('\n').strip('.')]))
     if not articles:
       print('Input file is empty!')
       sys.exit()
@@ -64,8 +64,6 @@ for index, articles_arr in enumerate(grouped_articles):
       "mouserPartNumber": '|'.join([article for article in articles_arr])
     }
   })
-
-  print(payload)
 
   try:
     response = requests.request("POST", url, headers=headers, data=payload)
@@ -108,7 +106,14 @@ for index, articles_arr in enumerate(grouped_articles):
         print('SearchResult or Parts nof found') #? log error
     continue
   else:
-    response_parts = [{part['ManufacturerPartNumber']: part['ProductDetailUrl']} for part in json_res['SearchResults']['Parts']]
+    response_parts = [
+      {part['MouserPartNumber']: part['ProductDetailUrl']}
+      if part['MouserPartNumber'] in articles_arr
+      else {part['ManufacturerPartNumber']: part['ProductDetailUrl']}
+      for part in json_res['SearchResults']['Parts']
+      if part['MouserPartNumber'] in articles_arr or part['ManufacturerPartNumber'] in articles_arr
+    ]
+
 
   
   parts_keys = [list(part.keys())[0] for part in response_parts]
