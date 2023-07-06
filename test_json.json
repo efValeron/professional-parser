@@ -1,0 +1,3810 @@
+{
+  "Errors": [],
+  "SearchResults": {
+      "NumberOfResult": 141,
+      "Parts": [
+          {
+              "Availability": "6 In Stock",
+              "DataSheetUrl": "https://www.mouser.com/datasheet/2/1386/Datasheet_MokuGo-3010034.pdf",
+              "Description": "Benchtop Oscilloscopes Moku:Go is a complete lab solution for engineers and students, featuring 10 instruments, a full range of connectivity and a 4-ch. power supply. An intuitive user interface (UI) is included for Windows and Mac.",
+              "FactoryStock": "0",
+              "ImagePath": "https://www.mouser.com/images/liquidinstruments/images/MokuGo_1080_stormbg_SPL.jpg",
+              "Category": "Benchtop Oscilloscopes",
+              "LeadTime": "13 Days",
+              "LifecycleStatus": "New at Mouser",
+              "Manufacturer": "Liquid Instruments",
+              "ManufacturerPartNumber": "MOKU:GO M2 (STORM)",
+              "Min": "1",
+              "Mult": "1",
+              "MouserPartNumber": "792-MOKU-GO-M2-STM",
+              "ProductAttributes": [
+                  {
+                      "AttributeName": "Packaging",
+                      "AttributeValue": "Bulk"
+                  },
+                  {
+                      "AttributeName": "Standard Pack Qty",
+                      "AttributeValue": "1"
+                  }
+              ],
+              "PriceBreaks": [
+                  {
+                      "Quantity": 1,
+                      "Price": "780,86 €",
+                      "Currency": "EUR"
+                  }
+              ],
+              "AlternatePackagings": null,
+              "ProductDetailUrl": "https://eu.mouser.com/ProductDetail/Liquid-Instruments/MOKUGO-M2-STORM?qs=XAiT9M5g4x80PwRZZJGkxQ%3D%3D",
+              "Reeling": false,
+              "ROHSStatus": "RoHS Compliant",
+              "SuggestedReplacement": "",
+              "MultiSimBlue": 0,
+              "AvailabilityInStock": "6",
+              "AvailabilityOnOrder": [],
+              "InfoMessages": [],
+              "ProductCompliance": [
+                  {
+                      "ComplianceName": "USHTS",
+                      "ComplianceValue": "9030890100"
+                  },
+                  {
+                      "ComplianceName": "ECCN",
+                      "ComplianceValue": "EAR99"
+                  }
+              ]
+          },
+          {
+              "Availability": "16 In Stock",
+              "DataSheetUrl": "https://www.mouser.com/datasheet/2/1386/Datasheet_MokuGo-3010034.pdf",
+              "Description": "Benchtop Oscilloscopes Moku:Go is a complete lab solution for engineers and students, featuring 10 instruments and a full range of connectivity. An intuitive user interface (UI) is included for Windows and Mac.",
+              "FactoryStock": "0",
+              "ImagePath": "https://www.mouser.com/images/liquidinstruments/images/MokuGo_1080_stormbg_SPL.jpg",
+              "Category": "Benchtop Oscilloscopes",
+              "LeadTime": "11 Days",
+              "LifecycleStatus": "New at Mouser",
+              "Manufacturer": "Liquid Instruments",
+              "ManufacturerPartNumber": "MOKU:GO M0 (STORM)",
+              "Min": "1",
+              "Mult": "1",
+              "MouserPartNumber": "792-MOKU-GO-M0-STM",
+              "ProductAttributes": [
+                  {
+                      "AttributeName": "Packaging",
+                      "AttributeValue": "Bulk"
+                  },
+                  {
+                      "AttributeName": "Standard Pack Qty",
+                      "AttributeValue": "1"
+                  }
+              ],
+              "PriceBreaks": [
+                  {
+                      "Quantity": 1,
+                      "Price": "585,34 €",
+                      "Currency": "EUR"
+                  }
+              ],
+              "AlternatePackagings": null,
+              "ProductDetailUrl": "https://eu.mouser.com/ProductDetail/Liquid-Instruments/MOKUGO-M0-STORM?qs=XAiT9M5g4x8MiKyz%2FUaNlw%3D%3D",
+              "Reeling": false,
+              "ROHSStatus": "RoHS Compliant",
+              "SuggestedReplacement": "",
+              "MultiSimBlue": 0,
+              "AvailabilityInStock": "16",
+              "AvailabilityOnOrder": [],
+              "InfoMessages": [],
+              "ProductCompliance": [
+                  {
+                      "ComplianceName": "USHTS",
+                      "ComplianceValue": "9030890100"
+                  },
+                  {
+                      "ComplianceName": "ECCN",
+                      "ComplianceValue": "EAR99"
+                  }
+              ]
+          },
+          {
+              "Availability": "5 In Stock",
+              "DataSheetUrl": "https://www.mouser.com/datasheet/2/1386/Datasheet_MokuGo-3010034.pdf",
+              "Description": "Benchtop Oscilloscopes Moku:Go is a complete lab solution for engineers and students, featuring 10 instruments, a full range of connectivity and a 2-ch. power supply. An intuitive user interface (UI) is included for Windows and Mac.",
+              "FactoryStock": "0",
+              "ImagePath": "https://www.mouser.com/images/liquidinstruments/images/MokuGo_1080_stormbg_SPL.jpg",
+              "Category": "Benchtop Oscilloscopes",
+              "LeadTime": "81 Days",
+              "LifecycleStatus": "New at Mouser",
+              "Manufacturer": "Liquid Instruments",
+              "ManufacturerPartNumber": "MOKU:GO M1 (STORM)",
+              "Min": "1",
+              "Mult": "1",
+              "MouserPartNumber": "792-MOKU-GO-M1-STM",
+              "ProductAttributes": [
+                  {
+                      "AttributeName": "Packaging",
+                      "AttributeValue": "Bulk"
+                  },
+                  {
+                      "AttributeName": "Standard Pack Qty",
+                      "AttributeValue": "1"
+                  }
+              ],
+              "PriceBreaks": [
+                  {
+                      "Quantity": 1,
+                      "Price": "683,10 €",
+                      "Currency": "EUR"
+                  }
+              ],
+              "AlternatePackagings": null,
+              "ProductDetailUrl": "https://eu.mouser.com/ProductDetail/Liquid-Instruments/MOKUGO-M1-STORM?qs=XAiT9M5g4x%2FatIS4TiiBmg%3D%3D",
+              "Reeling": false,
+              "ROHSStatus": "RoHS Compliant",
+              "SuggestedReplacement": "",
+              "MultiSimBlue": 0,
+              "AvailabilityInStock": "5",
+              "AvailabilityOnOrder": [],
+              "InfoMessages": [],
+              "ProductCompliance": [
+                  {
+                      "ComplianceName": "USHTS",
+                      "ComplianceValue": "9030890100"
+                  },
+                  {
+                      "ComplianceName": "ECCN",
+                      "ComplianceValue": "EAR99"
+                  }
+              ]
+          },
+          {
+              "Availability": "5 In Stock",
+              "DataSheetUrl": "https://www.mouser.com/datasheet/2/707/2220_Datasheet_Nov_2020-3108205.pdf",
+              "Description": "Input Devices",
+              "FactoryStock": "0",
+              "ImagePath": null,
+              "Category": "Input Devices",
+              "LeadTime": "49 Days",
+              "LifecycleStatus": null,
+              "Manufacturer": "Storm Interface",
+              "ManufacturerPartNumber": "2220-552016",
+              "Min": "1",
+              "Mult": "1",
+              "MouserPartNumber": "491-2220-55201",
+              "ProductAttributes": [],
+              "PriceBreaks": [
+                  {
+                      "Quantity": 1,
+                      "Price": "330,18 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 10,
+                      "Price": "319,16 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 25,
+                      "Price": "297,14 €",
+                      "Currency": "EUR"
+                  }
+              ],
+              "AlternatePackagings": null,
+              "ProductDetailUrl": "https://eu.mouser.com/ProductDetail/Storm-Interface/2220-552016?qs=amGC7iS6iy8%2FQHX6z%2FWJxA%3D%3D",
+              "Reeling": false,
+              "ROHSStatus": "RoHS Compliant",
+              "SuggestedReplacement": "",
+              "MultiSimBlue": 0,
+              "AvailabilityInStock": "5",
+              "AvailabilityOnOrder": [],
+              "InfoMessages": [],
+              "ProductCompliance": [
+                  {
+                      "ComplianceName": "CAHTS",
+                      "ComplianceValue": "8471600050"
+                  },
+                  {
+                      "ComplianceName": "USHTS",
+                      "ComplianceValue": "8471602000"
+                  },
+                  {
+                      "ComplianceName": "JPHTS",
+                      "ComplianceValue": "847160000"
+                  },
+                  {
+                      "ComplianceName": "TARIC",
+                      "ComplianceValue": "8471606000"
+                  },
+                  {
+                      "ComplianceName": "MXHTS",
+                      "ComplianceValue": "8471600499"
+                  },
+                  {
+                      "ComplianceName": "BRHTS",
+                      "ComplianceValue": "84716052"
+                  },
+                  {
+                      "ComplianceName": "ECCN",
+                      "ComplianceValue": "EAR99"
+                  }
+              ]
+          },
+          {
+              "Availability": "2 In Stock",
+              "DataSheetUrl": "",
+              "Description": "Input Devices 5000 Series Int & GFX keys",
+              "FactoryStock": "0",
+              "ImagePath": "https://www.mouser.com/images/storminterface/images/FT4K090_SPL.jpg",
+              "Category": "Input Devices",
+              "LeadTime": "0 Days",
+              "LifecycleStatus": null,
+              "Manufacturer": "Storm Interface",
+              "ManufacturerPartNumber": "FT4K0903",
+              "Min": "1",
+              "Mult": "1",
+              "MouserPartNumber": "491-FT4K090",
+              "ProductAttributes": [
+                  {
+                      "AttributeName": "Packaging",
+                      "AttributeValue": "Bulk"
+                  },
+                  {
+                      "AttributeName": "Standard Pack Qty",
+                      "AttributeValue": "1"
+                  }
+              ],
+              "PriceBreaks": [
+                  {
+                      "Quantity": 1,
+                      "Price": "149,62 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 10,
+                      "Price": "143,02 €",
+                      "Currency": "EUR"
+                  }
+              ],
+              "AlternatePackagings": null,
+              "ProductDetailUrl": "https://eu.mouser.com/ProductDetail/Storm-Interface/FT4K0903?qs=X772OquulpU0Ta%2F0qhV7VQ%3D%3D",
+              "Reeling": false,
+              "ROHSStatus": "RoHS Compliant",
+              "SuggestedReplacement": "",
+              "MultiSimBlue": 0,
+              "AvailabilityInStock": "2",
+              "AvailabilityOnOrder": [],
+              "InfoMessages": [],
+              "ProductCompliance": [
+                  {
+                      "ComplianceName": "CNHTS",
+                      "ComplianceValue": "8473309000"
+                  },
+                  {
+                      "ComplianceName": "USHTS",
+                      "ComplianceValue": "8473302000"
+                  },
+                  {
+                      "ComplianceName": "ECCN",
+                      "ComplianceValue": "EAR99"
+                  }
+              ]
+          },
+          {
+              "Availability": "25 In Stock",
+              "DataSheetUrl": "https://www.mouser.com/datasheet/2/707/ile-1440156186-1131984.pdf",
+              "Description": "Switch Cases / Switch Covers 700 Series 12 Keys Grey",
+              "FactoryStock": "0",
+              "ImagePath": "https://www.mouser.com/images/storminterface/images/700_series_12-key_SPL.jpg",
+              "Category": "Switch Cases / Switch Covers",
+              "LeadTime": "60 Days",
+              "LifecycleStatus": null,
+              "Manufacturer": "Storm Interface",
+              "ManufacturerPartNumber": "70120103",
+              "Min": "1",
+              "Mult": "1",
+              "MouserPartNumber": "491-7012010",
+              "ProductAttributes": [
+                  {
+                      "AttributeName": "Packaging",
+                      "AttributeValue": "Bulk"
+                  },
+                  {
+                      "AttributeName": "Standard Pack Qty",
+                      "AttributeValue": "1"
+                  }
+              ],
+              "PriceBreaks": [
+                  {
+                      "Quantity": 1,
+                      "Price": "42,80 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 10,
+                      "Price": "38,63 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 25,
+                      "Price": "37,01 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 50,
+                      "Price": "33,33 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 100,
+                      "Price": "32,13 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 250,
+                      "Price": "31,02 €",
+                      "Currency": "EUR"
+                  }
+              ],
+              "AlternatePackagings": null,
+              "ProductDetailUrl": "https://eu.mouser.com/ProductDetail/Storm-Interface/70120103?qs=X772OquulpU2VHsQeqiWIw%3D%3D",
+              "Reeling": false,
+              "ROHSStatus": "RoHS Compliant",
+              "SuggestedReplacement": "",
+              "MultiSimBlue": 0,
+              "AvailabilityInStock": "25",
+              "AvailabilityOnOrder": [],
+              "InfoMessages": [],
+              "ProductCompliance": [
+                  {
+                      "ComplianceName": "CNHTS",
+                      "ComplianceValue": "8532909000"
+                  },
+                  {
+                      "ComplianceName": "USHTS",
+                      "ComplianceValue": "8471607000"
+                  },
+                  {
+                      "ComplianceName": "MXHTS",
+                      "ComplianceValue": "8471600499"
+                  },
+                  {
+                      "ComplianceName": "ECCN",
+                      "ComplianceValue": "EAR99"
+                  }
+              ]
+          },
+          {
+              "Availability": "49 In Stock",
+              "DataSheetUrl": "https://www.mouser.com/datasheet/2/707/ile-1440156186-1131984.pdf",
+              "Description": "Switch Cases / Switch Covers 700 Series 16 Keys Black",
+              "FactoryStock": "0",
+              "ImagePath": "https://www.mouser.com/images/storminterface/images/700_series_16-key_SPL.jpg",
+              "Category": "Switch Cases / Switch Covers",
+              "LeadTime": "27 Days",
+              "LifecycleStatus": null,
+              "Manufacturer": "Storm Interface",
+              "ManufacturerPartNumber": "70160203",
+              "Min": "1",
+              "Mult": "1",
+              "MouserPartNumber": "491-7016020",
+              "ProductAttributes": [
+                  {
+                      "AttributeName": "Packaging",
+                      "AttributeValue": "Bulk"
+                  },
+                  {
+                      "AttributeName": "Standard Pack Qty",
+                      "AttributeValue": "1"
+                  }
+              ],
+              "PriceBreaks": [
+                  {
+                      "Quantity": 1,
+                      "Price": "49,65 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 10,
+                      "Price": "46,90 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 25,
+                      "Price": "43,99 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 50,
+                      "Price": "41,52 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 100,
+                      "Price": "39,98 €",
+                      "Currency": "EUR"
+                  }
+              ],
+              "AlternatePackagings": null,
+              "ProductDetailUrl": "https://eu.mouser.com/ProductDetail/Storm-Interface/70160203?qs=X772OquulpWOB%2FC%252BbEQzFg%3D%3D",
+              "Reeling": false,
+              "ROHSStatus": "RoHS Compliant",
+              "SuggestedReplacement": "",
+              "MultiSimBlue": 0,
+              "AvailabilityInStock": "49",
+              "AvailabilityOnOrder": [],
+              "InfoMessages": [],
+              "ProductCompliance": [
+                  {
+                      "ComplianceName": "CNHTS",
+                      "ComplianceValue": "3926901000"
+                  },
+                  {
+                      "ComplianceName": "USHTS",
+                      "ComplianceValue": "8473305100"
+                  },
+                  {
+                      "ComplianceName": "MXHTS",
+                      "ComplianceValue": "8471600499"
+                  },
+                  {
+                      "ComplianceName": "ECCN",
+                      "ComplianceValue": "EAR99"
+                  }
+              ]
+          },
+          {
+              "Availability": "11 In Stock",
+              "DataSheetUrl": "https://www.mouser.com/datasheet/2/707/ile-1440156186-1131984.pdf",
+              "Description": "Switch Cases / Switch Covers 700 Series tile set A",
+              "FactoryStock": "0",
+              "ImagePath": "https://www.mouser.com/images/storminterface/images/70A0010_SPL.jpg",
+              "Category": "Switch Cases / Switch Covers",
+              "LeadTime": "0 Days",
+              "LifecycleStatus": null,
+              "Manufacturer": "Storm Interface",
+              "ManufacturerPartNumber": "70A00103",
+              "Min": "1",
+              "Mult": "1",
+              "MouserPartNumber": "491-70A0010",
+              "ProductAttributes": [
+                  {
+                      "AttributeName": "Packaging",
+                      "AttributeValue": "Bulk"
+                  },
+                  {
+                      "AttributeName": "Standard Pack Qty",
+                      "AttributeValue": "1"
+                  }
+              ],
+              "PriceBreaks": [
+                  {
+                      "Quantity": 1,
+                      "Price": "5,24 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 10,
+                      "Price": "5,16 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 50,
+                      "Price": "5,14 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 100,
+                      "Price": "4,87 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 250,
+                      "Price": "4,75 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 500,
+                      "Price": "4,66 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 1000,
+                      "Price": "4,14 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 2500,
+                      "Price": "4,00 €",
+                      "Currency": "EUR"
+                  }
+              ],
+              "AlternatePackagings": null,
+              "ProductDetailUrl": "https://eu.mouser.com/ProductDetail/Storm-Interface/70A00103?qs=X772OquulpXfZc%252BOXWyjKg%3D%3D",
+              "Reeling": false,
+              "ROHSStatus": "RoHS Compliant",
+              "SuggestedReplacement": "",
+              "MultiSimBlue": 0,
+              "AvailabilityInStock": "11",
+              "AvailabilityOnOrder": [],
+              "InfoMessages": [],
+              "ProductCompliance": [
+                  {
+                      "ComplianceName": "CNHTS",
+                      "ComplianceValue": "8532909000"
+                  },
+                  {
+                      "ComplianceName": "CAHTS",
+                      "ComplianceValue": "8538903900"
+                  },
+                  {
+                      "ComplianceName": "USHTS",
+                      "ComplianceValue": "8473305100"
+                  },
+                  {
+                      "ComplianceName": "JPHTS",
+                      "ComplianceValue": "853890000"
+                  },
+                  {
+                      "ComplianceName": "TARIC",
+                      "ComplianceValue": "8538909999"
+                  },
+                  {
+                      "ComplianceName": "BRHTS",
+                      "ComplianceValue": "85389090"
+                  },
+                  {
+                      "ComplianceName": "ECCN",
+                      "ComplianceValue": "EAR99"
+                  }
+              ]
+          },
+          {
+              "Availability": "64 In Stock",
+              "DataSheetUrl": "https://www.mouser.com/datasheet/2/707/ile-1395244876-1131357.pdf",
+              "Description": "Input Devices PLX Series 12 Keys standard telephone",
+              "FactoryStock": "0",
+              "ImagePath": "https://www.mouser.com/images/storminterface/images/PLX12T20_SPL.jpg",
+              "Category": "Input Devices",
+              "LeadTime": "28 Days",
+              "LifecycleStatus": null,
+              "Manufacturer": "Storm Interface",
+              "ManufacturerPartNumber": "PLX12T203",
+              "Min": "1",
+              "Mult": "1",
+              "MouserPartNumber": "491-PLX12T20",
+              "ProductAttributes": [
+                  {
+                      "AttributeName": "Packaging",
+                      "AttributeValue": "Bulk"
+                  },
+                  {
+                      "AttributeName": "Standard Pack Qty",
+                      "AttributeValue": "1"
+                  }
+              ],
+              "PriceBreaks": [
+                  {
+                      "Quantity": 1,
+                      "Price": "63,98 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 10,
+                      "Price": "60,22 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 25,
+                      "Price": "58,34 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 50,
+                      "Price": "54,58 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 100,
+                      "Price": "51,57 €",
+                      "Currency": "EUR"
+                  }
+              ],
+              "AlternatePackagings": null,
+              "ProductDetailUrl": "https://eu.mouser.com/ProductDetail/Storm-Interface/PLX12T203?qs=X772OquulpVvEvC0vE4QfQ%3D%3D",
+              "Reeling": false,
+              "ROHSStatus": "RoHS Compliant",
+              "SuggestedReplacement": "",
+              "MultiSimBlue": 0,
+              "AvailabilityInStock": "64",
+              "AvailabilityOnOrder": [],
+              "InfoMessages": [],
+              "ProductCompliance": [
+                  {
+                      "ComplianceName": "USHTS",
+                      "ComplianceValue": "8471609050"
+                  },
+                  {
+                      "ComplianceName": "MXHTS",
+                      "ComplianceValue": "8471600499"
+                  },
+                  {
+                      "ComplianceName": "ECCN",
+                      "ComplianceValue": "EAR99"
+                  }
+              ]
+          },
+          {
+              "Availability": "9 In Stock",
+              "DataSheetUrl": "https://www.mouser.com/datasheet/2/707/Storm-Interface-1285346.pdf",
+              "Description": "Input Devices Nav-Pad Audio, 6 Key keypad with audio",
+              "FactoryStock": "0",
+              "ImagePath": "https://www.mouser.com/images/storminterface/images/EZ06-230013.jpg",
+              "Category": "Input Devices",
+              "LeadTime": "70 Days",
+              "LifecycleStatus": null,
+              "Manufacturer": "Storm Interface",
+              "ManufacturerPartNumber": "EZ06-23001",
+              "Min": "1",
+              "Mult": "1",
+              "MouserPartNumber": "491-EZ06-23001",
+              "ProductAttributes": [
+                  {
+                      "AttributeName": "Standard Pack Qty",
+                      "AttributeValue": "5"
+                  }
+              ],
+              "PriceBreaks": [
+                  {
+                      "Quantity": 1,
+                      "Price": "207,35 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 10,
+                      "Price": "200,42 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 25,
+                      "Price": "186,59 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 50,
+                      "Price": "183,85 €",
+                      "Currency": "EUR"
+                  }
+              ],
+              "AlternatePackagings": null,
+              "ProductDetailUrl": "https://eu.mouser.com/ProductDetail/Storm-Interface/EZ06-23001?qs=VO84H151%252BnO5gsGLBqt%252BuQ%3D%3D",
+              "Reeling": false,
+              "ROHSStatus": "RoHS Compliant",
+              "SuggestedReplacement": "",
+              "MultiSimBlue": 0,
+              "AvailabilityInStock": "9",
+              "AvailabilityOnOrder": [],
+              "InfoMessages": [],
+              "ProductCompliance": [
+                  {
+                      "ComplianceName": "USHTS",
+                      "ComplianceValue": "8471609050"
+                  },
+                  {
+                      "ComplianceName": "MXHTS",
+                      "ComplianceValue": "8471600499"
+                  },
+                  {
+                      "ComplianceName": "ECCN",
+                      "ComplianceValue": "EAR99"
+                  }
+              ]
+          },
+          {
+              "Availability": "32 In Stock",
+              "DataSheetUrl": "https://www.mouser.com/datasheet/2/707/ile-1395244876-1131357.pdf",
+              "Description": "Input Devices 1000 Series 12 Keys calc",
+              "FactoryStock": "0",
+              "ImagePath": "https://www.mouser.com/images/storminterface/images/1K12010_SPL.jpg",
+              "Category": "Input Devices",
+              "LeadTime": "63 Days",
+              "LifecycleStatus": null,
+              "Manufacturer": "Storm Interface",
+              "ManufacturerPartNumber": "1K120103",
+              "Min": "1",
+              "Mult": "1",
+              "MouserPartNumber": "491-1K12010",
+              "ProductAttributes": [
+                  {
+                      "AttributeName": "Packaging",
+                      "AttributeValue": "Bulk"
+                  },
+                  {
+                      "AttributeName": "Standard Pack Qty",
+                      "AttributeValue": "1"
+                  }
+              ],
+              "PriceBreaks": [
+                  {
+                      "Quantity": 1,
+                      "Price": "73,55 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 10,
+                      "Price": "69,22 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 25,
+                      "Price": "67,05 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 50,
+                      "Price": "62,75 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 100,
+                      "Price": "59,28 €",
+                      "Currency": "EUR"
+                  }
+              ],
+              "AlternatePackagings": null,
+              "ProductDetailUrl": "https://eu.mouser.com/ProductDetail/Storm-Interface/1K120103?qs=X772OquulpUy92SctTdq7w%3D%3D",
+              "Reeling": false,
+              "ROHSStatus": "RoHS Compliant",
+              "SuggestedReplacement": "",
+              "MultiSimBlue": 0,
+              "AvailabilityInStock": "32",
+              "AvailabilityOnOrder": [],
+              "InfoMessages": [],
+              "ProductCompliance": [
+                  {
+                      "ComplianceName": "USHTS",
+                      "ComplianceValue": "8471609050"
+                  },
+                  {
+                      "ComplianceName": "MXHTS",
+                      "ComplianceValue": "8471600499"
+                  },
+                  {
+                      "ComplianceName": "ECCN",
+                      "ComplianceValue": "EAR99"
+                  }
+              ]
+          },
+          {
+              "Availability": "6 In Stock",
+              "DataSheetUrl": "https://www.mouser.com/datasheet/2/707/ile-1396360153-1131927.pdf",
+              "Description": "Input Devices StrikeMaster",
+              "FactoryStock": "0",
+              "ImagePath": "https://www.mouser.com/images/storminterface/images/DE1KT10_SPL.jpg",
+              "Category": "Input Devices",
+              "LeadTime": "22 Days",
+              "LifecycleStatus": null,
+              "Manufacturer": "Storm Interface",
+              "ManufacturerPartNumber": "DE1KT103",
+              "Min": "1",
+              "Mult": "1",
+              "MouserPartNumber": "491-DE1KT10",
+              "ProductAttributes": [
+                  {
+                      "AttributeName": "Packaging",
+                      "AttributeValue": "Bulk"
+                  },
+                  {
+                      "AttributeName": "Standard Pack Qty",
+                      "AttributeValue": "1"
+                  }
+              ],
+              "PriceBreaks": [
+                  {
+                      "Quantity": 1,
+                      "Price": "220,77 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 10,
+                      "Price": "213,40 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 25,
+                      "Price": "198,70 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 50,
+                      "Price": "195,76 €",
+                      "Currency": "EUR"
+                  }
+              ],
+              "AlternatePackagings": null,
+              "ProductDetailUrl": "https://eu.mouser.com/ProductDetail/Storm-Interface/DE1KT103?qs=ZHnit%2F3SKro9MgNL3CdF4Q%3D%3D",
+              "Reeling": false,
+              "ROHSStatus": "RoHS Compliant",
+              "SuggestedReplacement": "",
+              "MultiSimBlue": 0,
+              "AvailabilityInStock": "6",
+              "AvailabilityOnOrder": [],
+              "InfoMessages": [],
+              "ProductCompliance": [
+                  {
+                      "ComplianceName": "USHTS",
+                      "ComplianceValue": "8471609050"
+                  },
+                  {
+                      "ComplianceName": "MXHTS",
+                      "ComplianceValue": "8471600499"
+                  },
+                  {
+                      "ComplianceName": "ECCN",
+                      "ComplianceValue": "EAR99"
+                  }
+              ]
+          },
+          {
+              "Availability": "24 In Stock",
+              "DataSheetUrl": "https://www.mouser.com/datasheet/2/707/File-1396358420-1888448.pdf",
+              "Description": "Input Devices 1000 Series 16 Keys calc",
+              "FactoryStock": "0",
+              "ImagePath": "https://www.mouser.com/images/storminterface/images/1K16010_SPL.jpg",
+              "Category": "Input Devices",
+              "LeadTime": "69 Days",
+              "LifecycleStatus": null,
+              "Manufacturer": "Storm Interface",
+              "ManufacturerPartNumber": "1K160103",
+              "Min": "1",
+              "Mult": "1",
+              "MouserPartNumber": "491-1K16010",
+              "ProductAttributes": [
+                  {
+                      "AttributeName": "Packaging",
+                      "AttributeValue": "Bulk"
+                  },
+                  {
+                      "AttributeName": "Standard Pack Qty",
+                      "AttributeValue": "1"
+                  }
+              ],
+              "PriceBreaks": [
+                  {
+                      "Quantity": 1,
+                      "Price": "90,07 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 10,
+                      "Price": "84,77 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 25,
+                      "Price": "82,13 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 50,
+                      "Price": "75,31 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 100,
+                      "Price": "71,16 €",
+                      "Currency": "EUR"
+                  }
+              ],
+              "AlternatePackagings": null,
+              "ProductDetailUrl": "https://eu.mouser.com/ProductDetail/Storm-Interface/1K160103?qs=X772OquulpU%2Fg0%252Btm9mrCg%3D%3D",
+              "Reeling": false,
+              "ROHSStatus": "RoHS Compliant",
+              "SuggestedReplacement": "",
+              "MultiSimBlue": 0,
+              "AvailabilityInStock": "24",
+              "AvailabilityOnOrder": [],
+              "InfoMessages": [],
+              "ProductCompliance": [
+                  {
+                      "ComplianceName": "USHTS",
+                      "ComplianceValue": "8471609050"
+                  },
+                  {
+                      "ComplianceName": "MXHTS",
+                      "ComplianceValue": "8471600499"
+                  },
+                  {
+                      "ComplianceName": "ECCN",
+                      "ComplianceValue": "EAR99"
+                  }
+              ]
+          },
+          {
+              "Availability": "6 In Stock",
+              "DataSheetUrl": "https://www.mouser.com/datasheet/2/707/Storm-Interface-1285346.pdf",
+              "Description": "Input Devices Nav-Pad Audio, 6 Key keypad with audio",
+              "FactoryStock": "0",
+              "ImagePath": "https://www.mouser.com/images/storminterface/images/EZ08-230013.jpg",
+              "Category": "Input Devices",
+              "LeadTime": "21 Days",
+              "LifecycleStatus": null,
+              "Manufacturer": "Storm Interface",
+              "ManufacturerPartNumber": "EZ08-23001",
+              "Min": "1",
+              "Mult": "1",
+              "MouserPartNumber": "491-EZ08-23001",
+              "ProductAttributes": [
+                  {
+                      "AttributeName": "Standard Pack Qty",
+                      "AttributeValue": "5"
+                  }
+              ],
+              "PriceBreaks": [
+                  {
+                      "Quantity": 1,
+                      "Price": "212,68 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 10,
+                      "Price": "205,58 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 25,
+                      "Price": "191,40 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 50,
+                      "Price": "188,59 €",
+                      "Currency": "EUR"
+                  }
+              ],
+              "AlternatePackagings": null,
+              "ProductDetailUrl": "https://eu.mouser.com/ProductDetail/Storm-Interface/EZ08-23001?qs=VO84H151%252BnPRh3DxkxNB3w%3D%3D",
+              "Reeling": false,
+              "ROHSStatus": "RoHS Compliant",
+              "SuggestedReplacement": "",
+              "MultiSimBlue": 0,
+              "AvailabilityInStock": "6",
+              "AvailabilityOnOrder": [],
+              "InfoMessages": [],
+              "ProductCompliance": [
+                  {
+                      "ComplianceName": "USHTS",
+                      "ComplianceValue": "8471602000"
+                  },
+                  {
+                      "ComplianceName": "MXHTS",
+                      "ComplianceValue": "8471600499"
+                  },
+                  {
+                      "ComplianceName": "ECCN",
+                      "ComplianceValue": "EAR99"
+                  }
+              ]
+          },
+          {
+              "Availability": "219 In Stock",
+              "DataSheetUrl": "https://www.mouser.com/datasheet/2/707/storm_Nav-Bar_Panel-1219481.pdf",
+              "Description": "Input Devices 6 Key Nav-Bar Surface Mount",
+              "FactoryStock": "0",
+              "ImagePath": "https://www.mouser.com/images/storminterface/images/EZB6-730003_SPL.jpg",
+              "Category": "Input Devices",
+              "LeadTime": "0 Days",
+              "LifecycleStatus": null,
+              "Manufacturer": "Storm Interface",
+              "ManufacturerPartNumber": "EZB6-730003",
+              "Min": "1",
+              "Mult": "1",
+              "MouserPartNumber": "491-EZB6-730003",
+              "ProductAttributes": [
+                  {
+                      "AttributeName": "Packaging",
+                      "AttributeValue": "Bulk"
+                  },
+                  {
+                      "AttributeName": "Standard Pack Qty",
+                      "AttributeValue": "5"
+                  }
+              ],
+              "PriceBreaks": [
+                  {
+                      "Quantity": 1,
+                      "Price": "153,27 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 10,
+                      "Price": "147,46 €",
+                      "Currency": "EUR"
+                  }
+              ],
+              "AlternatePackagings": null,
+              "ProductDetailUrl": "https://eu.mouser.com/ProductDetail/Storm-Interface/EZB6-730003?qs=j%252B1pi9TdxUZpvXgfyyK1Jg%3D%3D",
+              "Reeling": false,
+              "ROHSStatus": "RoHS Compliant",
+              "SuggestedReplacement": "",
+              "MultiSimBlue": 0,
+              "AvailabilityInStock": "219",
+              "AvailabilityOnOrder": [],
+              "InfoMessages": [],
+              "ProductCompliance": [
+                  {
+                      "ComplianceName": "USHTS",
+                      "ComplianceValue": "8471602000"
+                  },
+                  {
+                      "ComplianceName": "MXHTS",
+                      "ComplianceValue": "8471600499"
+                  },
+                  {
+                      "ComplianceName": "ECCN",
+                      "ComplianceValue": "EAR99"
+                  }
+              ]
+          },
+          {
+              "Availability": "72 In Stock",
+              "DataSheetUrl": "https://www.mouser.com/datasheet/2/707/File-1396358420-1888448.pdf",
+              "Description": "Input Devices 1000 Series 12 Keys stnd tele",
+              "FactoryStock": "0",
+              "ImagePath": "https://www.mouser.com/images/storminterface/images/1K12T10_SPL.jpg",
+              "Category": "Input Devices",
+              "LeadTime": "29 Days",
+              "LifecycleStatus": null,
+              "Manufacturer": "Storm Interface",
+              "ManufacturerPartNumber": "1K12T103",
+              "Min": "1",
+              "Mult": "1",
+              "MouserPartNumber": "491-1K12T10",
+              "ProductAttributes": [
+                  {
+                      "AttributeName": "Packaging",
+                      "AttributeValue": "Bulk"
+                  },
+                  {
+                      "AttributeName": "Standard Pack Qty",
+                      "AttributeValue": "1"
+                  }
+              ],
+              "PriceBreaks": [
+                  {
+                      "Quantity": 1,
+                      "Price": "73,56 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 10,
+                      "Price": "69,22 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 25,
+                      "Price": "67,07 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 50,
+                      "Price": "62,74 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 100,
+                      "Price": "60,48 €",
+                      "Currency": "EUR"
+                  }
+              ],
+              "AlternatePackagings": null,
+              "ProductDetailUrl": "https://eu.mouser.com/ProductDetail/Storm-Interface/1K12T103?qs=X772OquulpVD0glE%2FtDTbQ%3D%3D",
+              "Reeling": false,
+              "ROHSStatus": "RoHS Compliant",
+              "SuggestedReplacement": "",
+              "MultiSimBlue": 0,
+              "AvailabilityInStock": "72",
+              "AvailabilityOnOrder": [],
+              "InfoMessages": [],
+              "ProductCompliance": [
+                  {
+                      "ComplianceName": "USHTS",
+                      "ComplianceValue": "8471609050"
+                  },
+                  {
+                      "ComplianceName": "MXHTS",
+                      "ComplianceValue": "8471600499"
+                  },
+                  {
+                      "ComplianceName": "ECCN",
+                      "ComplianceValue": "EAR99"
+                  }
+              ]
+          },
+          {
+              "Availability": "66 In Stock",
+              "DataSheetUrl": "https://www.mouser.com/datasheet/2/707/ile_1410971337-1131508.pdf",
+              "Description": "Modules Accessories 5000 Series bezel (w/o LCD)",
+              "FactoryStock": "0",
+              "ImagePath": "https://www.mouser.com/images/storminterface/images/5001-20010_SPL.jpg",
+              "Category": "Modules Accessories",
+              "LeadTime": "24 Days",
+              "LifecycleStatus": null,
+              "Manufacturer": "Storm Interface",
+              "ManufacturerPartNumber": "5001-200103",
+              "Min": "1",
+              "Mult": "1",
+              "MouserPartNumber": "491-5001-20010",
+              "ProductAttributes": [
+                  {
+                      "AttributeName": "Packaging",
+                      "AttributeValue": "Bulk"
+                  },
+                  {
+                      "AttributeName": "Standard Pack Qty",
+                      "AttributeValue": "1"
+                  }
+              ],
+              "PriceBreaks": [
+                  {
+                      "Quantity": 1,
+                      "Price": "51,80 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 10,
+                      "Price": "42,38 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 100,
+                      "Price": "41,09 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 250,
+                      "Price": "40,27 €",
+                      "Currency": "EUR"
+                  }
+              ],
+              "AlternatePackagings": null,
+              "ProductDetailUrl": "https://eu.mouser.com/ProductDetail/Storm-Interface/5001-200103?qs=X772OquulpU%2FenFkEOEOMQ%3D%3D",
+              "Reeling": false,
+              "ROHSStatus": "RoHS Compliant",
+              "SuggestedReplacement": "",
+              "MultiSimBlue": 0,
+              "AvailabilityInStock": "66",
+              "AvailabilityOnOrder": [],
+              "InfoMessages": [],
+              "ProductCompliance": [
+                  {
+                      "ComplianceName": "CNHTS",
+                      "ComplianceValue": "8473309000"
+                  },
+                  {
+                      "ComplianceName": "USHTS",
+                      "ComplianceValue": "8471601050"
+                  },
+                  {
+                      "ComplianceName": "ECCN",
+                      "ComplianceValue": "EAR99"
+                  }
+              ]
+          },
+          {
+              "Availability": "5 In Stock",
+              "DataSheetUrl": "https://www.mouser.com/datasheet/2/707/File_1465404470-2325377.pdf",
+              "Description": "Input Devices StrikeMaster ES Backlit Keypad",
+              "FactoryStock": "0",
+              "ImagePath": "https://www.mouser.com/images/storminterface/images/DX2KW20_DSL.jpg",
+              "Category": "Input Devices",
+              "LeadTime": "0 Days",
+              "LifecycleStatus": null,
+              "Manufacturer": "Storm Interface",
+              "ManufacturerPartNumber": "DX2KW203",
+              "Min": "1",
+              "Mult": "1",
+              "MouserPartNumber": "491-DX2KW20",
+              "ProductAttributes": [
+                  {
+                      "AttributeName": "Packaging",
+                      "AttributeValue": "Bulk"
+                  },
+                  {
+                      "AttributeName": "Standard Pack Qty",
+                      "AttributeValue": "1"
+                  }
+              ],
+              "PriceBreaks": [
+                  {
+                      "Quantity": 1,
+                      "Price": "149,12 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 10,
+                      "Price": "144,17 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 25,
+                      "Price": "134,27 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 50,
+                      "Price": "132,29 €",
+                      "Currency": "EUR"
+                  }
+              ],
+              "AlternatePackagings": null,
+              "ProductDetailUrl": "https://eu.mouser.com/ProductDetail/Storm-Interface/DX2KW203?qs=X772OquulpXnf%2FxRt0CStg%3D%3D",
+              "Reeling": false,
+              "ROHSStatus": "RoHS Compliant",
+              "SuggestedReplacement": "",
+              "MultiSimBlue": 0,
+              "AvailabilityInStock": "5",
+              "AvailabilityOnOrder": [],
+              "InfoMessages": [],
+              "ProductCompliance": [
+                  {
+                      "ComplianceName": "USHTS",
+                      "ComplianceValue": "8471602000"
+                  },
+                  {
+                      "ComplianceName": "MXHTS",
+                      "ComplianceValue": "8471600499"
+                  },
+                  {
+                      "ComplianceName": "ECCN",
+                      "ComplianceValue": "EAR99"
+                  }
+              ]
+          },
+          {
+              "Availability": "2 In Stock",
+              "DataSheetUrl": "https://www.mouser.com/datasheet/2/707/Storm-Interface-1132015.pdf",
+              "Description": "Input Devices DR2",
+              "FactoryStock": "0",
+              "ImagePath": "https://www.mouser.com/images/storminterface/images/DR2KT20_SPL.jpg",
+              "Category": "Input Devices",
+              "LeadTime": "0 Days",
+              "LifecycleStatus": null,
+              "Manufacturer": "Storm Interface",
+              "ManufacturerPartNumber": "DR2KT203",
+              "Min": "1",
+              "Mult": "1",
+              "MouserPartNumber": "491-DR2KT20",
+              "ProductAttributes": [
+                  {
+                      "AttributeName": "Packaging",
+                      "AttributeValue": "Bulk"
+                  },
+                  {
+                      "AttributeName": "Standard Pack Qty",
+                      "AttributeValue": "1"
+                  }
+              ],
+              "PriceBreaks": [
+                  {
+                      "Quantity": 1,
+                      "Price": "179,02 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 10,
+                      "Price": "172,91 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 25,
+                      "Price": "161,13 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 50,
+                      "Price": "158,74 €",
+                      "Currency": "EUR"
+                  }
+              ],
+              "AlternatePackagings": null,
+              "ProductDetailUrl": "https://eu.mouser.com/ProductDetail/Storm-Interface/DR2KT203?qs=ZHnit%2F3SKrq72RyMMVQvZw%3D%3D",
+              "Reeling": false,
+              "ROHSStatus": "RoHS Compliant",
+              "SuggestedReplacement": "",
+              "MultiSimBlue": 0,
+              "AvailabilityInStock": "2",
+              "AvailabilityOnOrder": [],
+              "InfoMessages": [],
+              "ProductCompliance": [
+                  {
+                      "ComplianceName": "USHTS",
+                      "ComplianceValue": "8471602000"
+                  },
+                  {
+                      "ComplianceName": "MXHTS",
+                      "ComplianceValue": "8471600499"
+                  },
+                  {
+                      "ComplianceName": "ECCN",
+                      "ComplianceValue": "EAR99"
+                  }
+              ]
+          },
+          {
+              "Availability": "17 In Stock",
+              "DataSheetUrl": "https://www.mouser.com/datasheet/2/707/ile-1439475975-1132043.pdf",
+              "Description": "Input Devices 3000 Series 16 Keys telephone",
+              "FactoryStock": "0",
+              "ImagePath": "https://www.mouser.com/images/storminterface/images/3K16T10_SPL.jpg",
+              "Category": "Input Devices",
+              "LeadTime": "0 Days",
+              "LifecycleStatus": null,
+              "Manufacturer": "Storm Interface",
+              "ManufacturerPartNumber": "3K16T103",
+              "Min": "1",
+              "Mult": "1",
+              "MouserPartNumber": "491-3K16T10",
+              "ProductAttributes": [
+                  {
+                      "AttributeName": "Packaging",
+                      "AttributeValue": "Bulk"
+                  },
+                  {
+                      "AttributeName": "Standard Pack Qty",
+                      "AttributeValue": "1"
+                  }
+              ],
+              "PriceBreaks": [
+                  {
+                      "Quantity": 1,
+                      "Price": "43,68 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 10,
+                      "Price": "39,46 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 25,
+                      "Price": "37,80 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 50,
+                      "Price": "35,44 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 100,
+                      "Price": "34,25 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 250,
+                      "Price": "32,37 €",
+                      "Currency": "EUR"
+                  }
+              ],
+              "AlternatePackagings": null,
+              "ProductDetailUrl": "https://eu.mouser.com/ProductDetail/Storm-Interface/3K16T103?qs=X772OquulpWhU90O78TAeg%3D%3D",
+              "Reeling": false,
+              "ROHSStatus": "RoHS Compliant",
+              "SuggestedReplacement": "",
+              "MultiSimBlue": 0,
+              "AvailabilityInStock": "17",
+              "AvailabilityOnOrder": [],
+              "InfoMessages": [],
+              "ProductCompliance": [
+                  {
+                      "ComplianceName": "USHTS",
+                      "ComplianceValue": "8471609050"
+                  },
+                  {
+                      "ComplianceName": "MXHTS",
+                      "ComplianceValue": "8471600499"
+                  },
+                  {
+                      "ComplianceName": "ECCN",
+                      "ComplianceValue": "EAR99"
+                  }
+              ]
+          },
+          {
+              "Availability": "33 In Stock",
+              "DataSheetUrl": "https://www.mouser.com/datasheet/2/707/ile-1440156186-1131984.pdf",
+              "Description": "Switch Cases / Switch Covers 700 Series 4 Keys Black",
+              "FactoryStock": "0",
+              "ImagePath": "https://www.mouser.com/images/storminterface/images/700_series_4-key_SPL.jpg",
+              "Category": "Switch Cases / Switch Covers",
+              "LeadTime": "20 Days",
+              "LifecycleStatus": null,
+              "Manufacturer": "Storm Interface",
+              "ManufacturerPartNumber": "70040203",
+              "Min": "1",
+              "Mult": "1",
+              "MouserPartNumber": "491-7004020",
+              "ProductAttributes": [
+                  {
+                      "AttributeName": "Packaging",
+                      "AttributeValue": "Bulk"
+                  },
+                  {
+                      "AttributeName": "Standard Pack Qty",
+                      "AttributeValue": "1"
+                  }
+              ],
+              "PriceBreaks": [
+                  {
+                      "Quantity": 1,
+                      "Price": "31,96 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 10,
+                      "Price": "28,98 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 25,
+                      "Price": "27,03 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 50,
+                      "Price": "26,03 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 100,
+                      "Price": "25,16 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 250,
+                      "Price": "23,77 €",
+                      "Currency": "EUR"
+                  }
+              ],
+              "AlternatePackagings": null,
+              "ProductDetailUrl": "https://eu.mouser.com/ProductDetail/Storm-Interface/70040203?qs=X772OquulpV%2FXAkJQ0gooQ%3D%3D",
+              "Reeling": false,
+              "ROHSStatus": "RoHS Compliant",
+              "SuggestedReplacement": "",
+              "MultiSimBlue": 0,
+              "AvailabilityInStock": "33",
+              "AvailabilityOnOrder": [],
+              "InfoMessages": [],
+              "ProductCompliance": [
+                  {
+                      "ComplianceName": "CNHTS",
+                      "ComplianceValue": "8538900002"
+                  },
+                  {
+                      "ComplianceName": "USHTS",
+                      "ComplianceValue": "8473305100"
+                  },
+                  {
+                      "ComplianceName": "MXHTS",
+                      "ComplianceValue": "8471600499"
+                  },
+                  {
+                      "ComplianceName": "ECCN",
+                      "ComplianceValue": "EAR99"
+                  }
+              ]
+          },
+          {
+              "Availability": "6 In Stock",
+              "DataSheetUrl": "https://www.mouser.com/datasheet/2/707/ile-1396360023-1290888.pdf",
+              "Description": "Input Devices 720TFX-i Series 12 Keys",
+              "FactoryStock": "0",
+              "ImagePath": "https://www.mouser.com/images/storminterface/images/7203-12TW20_SPL.jpg",
+              "Category": "Input Devices",
+              "LeadTime": "28 Days",
+              "LifecycleStatus": null,
+              "Manufacturer": "Storm Interface",
+              "ManufacturerPartNumber": "7203-12TW203",
+              "Min": "1",
+              "Mult": "1",
+              "MouserPartNumber": "491-7203-12TW20",
+              "ProductAttributes": [
+                  {
+                      "AttributeName": "Packaging",
+                      "AttributeValue": "Bulk"
+                  },
+                  {
+                      "AttributeName": "Standard Pack Qty",
+                      "AttributeValue": "1"
+                  }
+              ],
+              "PriceBreaks": [
+                  {
+                      "Quantity": 1,
+                      "Price": "42,76 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 10,
+                      "Price": "38,60 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 25,
+                      "Price": "36,98 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 50,
+                      "Price": "34,67 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 100,
+                      "Price": "33,51 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 250,
+                      "Price": "31,67 €",
+                      "Currency": "EUR"
+                  }
+              ],
+              "AlternatePackagings": null,
+              "ProductDetailUrl": "https://eu.mouser.com/ProductDetail/Storm-Interface/7203-12TW203?qs=ZHnit%2F3SKrrjqbj%252BrpB8Qg%3D%3D",
+              "Reeling": false,
+              "ROHSStatus": "RoHS Compliant",
+              "SuggestedReplacement": "",
+              "MultiSimBlue": 0,
+              "AvailabilityInStock": "6",
+              "AvailabilityOnOrder": [
+                  {
+                      "Quantity": 14,
+                      "Date": "2023-08-10T00:00:00"
+                  }
+              ],
+              "InfoMessages": [],
+              "ProductCompliance": [
+                  {
+                      "ComplianceName": "USHTS",
+                      "ComplianceValue": "8471609050"
+                  },
+                  {
+                      "ComplianceName": "MXHTS",
+                      "ComplianceValue": "8471600499"
+                  },
+                  {
+                      "ComplianceName": "ECCN",
+                      "ComplianceValue": "EAR99"
+                  }
+              ]
+          },
+          {
+              "Availability": "3 In Stock",
+              "DataSheetUrl": "https://www.mouser.com/datasheet/2/707/ile-1440156186-1131984.pdf",
+              "Description": "Input Devices 720BLK Series 16 keys",
+              "FactoryStock": "0",
+              "ImagePath": "https://www.mouser.com/images/storminterface/images/7202-16T020_SPL.jpg",
+              "Category": "Input Devices",
+              "LeadTime": "48 Days",
+              "LifecycleStatus": null,
+              "Manufacturer": "Storm Interface",
+              "ManufacturerPartNumber": "7202-16T0203",
+              "Min": "1",
+              "Mult": "1",
+              "MouserPartNumber": "491-7202-16T020",
+              "ProductAttributes": [
+                  {
+                      "AttributeName": "Packaging",
+                      "AttributeValue": "Bulk"
+                  },
+                  {
+                      "AttributeName": "Standard Pack Qty",
+                      "AttributeValue": "1"
+                  }
+              ],
+              "PriceBreaks": [
+                  {
+                      "Quantity": 1,
+                      "Price": "43,13 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 10,
+                      "Price": "38,93 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 25,
+                      "Price": "36,37 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 50,
+                      "Price": "34,97 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 100,
+                      "Price": "33,80 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 250,
+                      "Price": "31,94 €",
+                      "Currency": "EUR"
+                  }
+              ],
+              "AlternatePackagings": null,
+              "ProductDetailUrl": "https://eu.mouser.com/ProductDetail/Storm-Interface/7202-16T0203?qs=ZHnit%2F3SKrpgCORUBklLBA%3D%3D",
+              "Reeling": false,
+              "ROHSStatus": "RoHS Compliant",
+              "SuggestedReplacement": "",
+              "MultiSimBlue": 0,
+              "AvailabilityInStock": "3",
+              "AvailabilityOnOrder": [],
+              "InfoMessages": [],
+              "ProductCompliance": [
+                  {
+                      "ComplianceName": "USHTS",
+                      "ComplianceValue": "8471602000"
+                  },
+                  {
+                      "ComplianceName": "MXHTS",
+                      "ComplianceValue": "8471600499"
+                  },
+                  {
+                      "ComplianceName": "ECCN",
+                      "ComplianceValue": "EAR99"
+                  }
+              ]
+          },
+          {
+              "Availability": "25 In Stock",
+              "DataSheetUrl": "https://www.mouser.com/datasheet/2/707/ile-1440156186-1131984.pdf",
+              "Description": "Switch Cases / Switch Covers 700 Series tile set B",
+              "FactoryStock": "0",
+              "ImagePath": "https://www.mouser.com/images/storminterface/images/70B0010_SPL.jpg",
+              "Category": "Switch Cases / Switch Covers",
+              "LeadTime": "30 Days",
+              "LifecycleStatus": null,
+              "Manufacturer": "Storm Interface",
+              "ManufacturerPartNumber": "70B00103",
+              "Min": "1",
+              "Mult": "1",
+              "MouserPartNumber": "491-70B0010",
+              "ProductAttributes": [
+                  {
+                      "AttributeName": "Packaging",
+                      "AttributeValue": "Bulk"
+                  },
+                  {
+                      "AttributeName": "Standard Pack Qty",
+                      "AttributeValue": "1"
+                  }
+              ],
+              "PriceBreaks": [
+                  {
+                      "Quantity": 1,
+                      "Price": "5,42 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 10,
+                      "Price": "5,28 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 25,
+                      "Price": "5,21 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 50,
+                      "Price": "5,14 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 100,
+                      "Price": "4,81 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 250,
+                      "Price": "4,69 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 500,
+                      "Price": "4,61 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 1000,
+                      "Price": "4,14 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 2500,
+                      "Price": "4,00 €",
+                      "Currency": "EUR"
+                  }
+              ],
+              "AlternatePackagings": null,
+              "ProductDetailUrl": "https://eu.mouser.com/ProductDetail/Storm-Interface/70B00103?qs=X772OquulpVxdSZPCgdjeQ%3D%3D",
+              "Reeling": false,
+              "ROHSStatus": "RoHS Compliant",
+              "SuggestedReplacement": "",
+              "MultiSimBlue": 0,
+              "AvailabilityInStock": "25",
+              "AvailabilityOnOrder": [],
+              "InfoMessages": [],
+              "ProductCompliance": [
+                  {
+                      "ComplianceName": "CNHTS",
+                      "ComplianceValue": "4016999090"
+                  },
+                  {
+                      "ComplianceName": "CAHTS",
+                      "ComplianceValue": "8538903900"
+                  },
+                  {
+                      "ComplianceName": "USHTS",
+                      "ComplianceValue": "8473305100"
+                  },
+                  {
+                      "ComplianceName": "JPHTS",
+                      "ComplianceValue": "853890000"
+                  },
+                  {
+                      "ComplianceName": "TARIC",
+                      "ComplianceValue": "8538909999"
+                  },
+                  {
+                      "ComplianceName": "BRHTS",
+                      "ComplianceValue": "85389090"
+                  },
+                  {
+                      "ComplianceName": "ECCN",
+                      "ComplianceValue": "EAR99"
+                  }
+              ]
+          },
+          {
+              "Availability": "13 In Stock",
+              "DataSheetUrl": "https://www.mouser.com/datasheet/2/707/ile-1396361279-1291017.pdf",
+              "Description": "Input Devices 720GFX-i Series 16 Keys",
+              "FactoryStock": "0",
+              "ImagePath": "https://www.mouser.com/images/storminterface/images/7207-161W20_SPL.jpg",
+              "Category": "Input Devices",
+              "LeadTime": "38 Days",
+              "LifecycleStatus": null,
+              "Manufacturer": "Storm Interface",
+              "ManufacturerPartNumber": "7207-161W203",
+              "Min": "1",
+              "Mult": "1",
+              "MouserPartNumber": "491-7207-161W20",
+              "ProductAttributes": [
+                  {
+                      "AttributeName": "Packaging",
+                      "AttributeValue": "Bulk"
+                  },
+                  {
+                      "AttributeName": "Standard Pack Qty",
+                      "AttributeValue": "1"
+                  }
+              ],
+              "PriceBreaks": [
+                  {
+                      "Quantity": 1,
+                      "Price": "56,65 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 10,
+                      "Price": "53,32 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 25,
+                      "Price": "51,66 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 50,
+                      "Price": "48,33 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 100,
+                      "Price": "45,66 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 250,
+                      "Price": "44,32 €",
+                      "Currency": "EUR"
+                  }
+              ],
+              "AlternatePackagings": null,
+              "ProductDetailUrl": "https://eu.mouser.com/ProductDetail/Storm-Interface/7207-161W203?qs=ZHnit%2F3SKrqwmM1TZ8q7YQ%3D%3D",
+              "Reeling": false,
+              "ROHSStatus": "RoHS Compliant",
+              "SuggestedReplacement": "",
+              "MultiSimBlue": 0,
+              "AvailabilityInStock": "13",
+              "AvailabilityOnOrder": [],
+              "InfoMessages": [],
+              "ProductCompliance": [
+                  {
+                      "ComplianceName": "USHTS",
+                      "ComplianceValue": "8471609050"
+                  },
+                  {
+                      "ComplianceName": "MXHTS",
+                      "ComplianceValue": "8471600499"
+                  },
+                  {
+                      "ComplianceName": "ECCN",
+                      "ComplianceValue": "EAR99"
+                  }
+              ]
+          },
+          {
+              "Availability": "4 In Stock",
+              "DataSheetUrl": "https://www.mouser.com/datasheet/2/707/ile-1440156186-1131984.pdf",
+              "Description": "Input Devices 720BLK Series 4 Keys",
+              "FactoryStock": "0",
+              "ImagePath": "https://www.mouser.com/images/storminterface/images/7202-040020_SPL.jpg",
+              "Category": "Input Devices",
+              "LeadTime": "48 Days",
+              "LifecycleStatus": null,
+              "Manufacturer": "Storm Interface",
+              "ManufacturerPartNumber": "7202-0400203",
+              "Min": "1",
+              "Mult": "1",
+              "MouserPartNumber": "491-7202-040020",
+              "ProductAttributes": [
+                  {
+                      "AttributeName": "Packaging",
+                      "AttributeValue": "Bulk"
+                  },
+                  {
+                      "AttributeName": "Standard Pack Qty",
+                      "AttributeValue": "1"
+                  }
+              ],
+              "PriceBreaks": [
+                  {
+                      "Quantity": 1,
+                      "Price": "23,57 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 10,
+                      "Price": "22,11 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 25,
+                      "Price": "21,54 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 50,
+                      "Price": "20,23 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 100,
+                      "Price": "19,56 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 250,
+                      "Price": "18,48 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 500,
+                      "Price": "17,94 €",
+                      "Currency": "EUR"
+                  }
+              ],
+              "AlternatePackagings": null,
+              "ProductDetailUrl": "https://eu.mouser.com/ProductDetail/Storm-Interface/7202-0400203?qs=ZHnit%2F3SKrrUjFumaCbrBA%3D%3D",
+              "Reeling": false,
+              "ROHSStatus": "RoHS Compliant",
+              "SuggestedReplacement": "",
+              "MultiSimBlue": 0,
+              "AvailabilityInStock": "4",
+              "AvailabilityOnOrder": [],
+              "InfoMessages": [],
+              "ProductCompliance": [
+                  {
+                      "ComplianceName": "USHTS",
+                      "ComplianceValue": "8471609050"
+                  },
+                  {
+                      "ComplianceName": "MXHTS",
+                      "ComplianceValue": "8471600499"
+                  },
+                  {
+                      "ComplianceName": "ECCN",
+                      "ComplianceValue": "EAR99"
+                  }
+              ]
+          },
+          {
+              "Availability": "5 In Stock",
+              "DataSheetUrl": "https://www.mouser.com/datasheet/2/707/File-1396358420-1888448.pdf",
+              "Description": "Input Devices 1000 Series 4 function keys",
+              "FactoryStock": "0",
+              "ImagePath": "https://www.mouser.com/images/storminterface/images/1K04210_SPL.jpg",
+              "Category": "Input Devices",
+              "LeadTime": "27 Days",
+              "LifecycleStatus": null,
+              "Manufacturer": "Storm Interface",
+              "ManufacturerPartNumber": "1K042103",
+              "Min": "1",
+              "Mult": "1",
+              "MouserPartNumber": "491-1K04210",
+              "ProductAttributes": [
+                  {
+                      "AttributeName": "Packaging",
+                      "AttributeValue": "Bulk"
+                  },
+                  {
+                      "AttributeName": "Standard Pack Qty",
+                      "AttributeValue": "1"
+                  }
+              ],
+              "PriceBreaks": [
+                  {
+                      "Quantity": 1,
+                      "Price": "51,85 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 10,
+                      "Price": "47,94 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 25,
+                      "Price": "46,44 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 50,
+                      "Price": "43,44 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 100,
+                      "Price": "41,04 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 250,
+                      "Price": "39,85 €",
+                      "Currency": "EUR"
+                  }
+              ],
+              "AlternatePackagings": null,
+              "ProductDetailUrl": "https://eu.mouser.com/ProductDetail/Storm-Interface/1K042103?qs=ZHnit%2F3SKrref%2F%2Fmf5RLAg%3D%3D",
+              "Reeling": false,
+              "ROHSStatus": "RoHS Compliant",
+              "SuggestedReplacement": "",
+              "MultiSimBlue": 0,
+              "AvailabilityInStock": "5",
+              "AvailabilityOnOrder": [],
+              "InfoMessages": [],
+              "ProductCompliance": [
+                  {
+                      "ComplianceName": "USHTS",
+                      "ComplianceValue": "8471609050"
+                  },
+                  {
+                      "ComplianceName": "MXHTS",
+                      "ComplianceValue": "8471600499"
+                  },
+                  {
+                      "ComplianceName": "ECCN",
+                      "ComplianceValue": "EAR99"
+                  }
+              ]
+          },
+          {
+              "Availability": "32 In Stock",
+              "DataSheetUrl": "https://www.mouser.com/datasheet/2/707/ile-1440156186-1131984.pdf",
+              "Description": "Switch Cases / Switch Covers 700 Series 4 Keys Grey",
+              "FactoryStock": "0",
+              "ImagePath": "https://www.mouser.com/images/storminterface/images/700_series_4-key_SPL.jpg",
+              "Category": "Switch Cases / Switch Covers",
+              "LeadTime": "49 Days",
+              "LifecycleStatus": null,
+              "Manufacturer": "Storm Interface",
+              "ManufacturerPartNumber": "70040103",
+              "Min": "1",
+              "Mult": "1",
+              "MouserPartNumber": "491-7004010",
+              "ProductAttributes": [
+                  {
+                      "AttributeName": "Packaging",
+                      "AttributeValue": "Bulk"
+                  },
+                  {
+                      "AttributeName": "Standard Pack Qty",
+                      "AttributeValue": "1"
+                  }
+              ],
+              "PriceBreaks": [
+                  {
+                      "Quantity": 1,
+                      "Price": "28,26 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 10,
+                      "Price": "26,09 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 25,
+                      "Price": "25,14 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 50,
+                      "Price": "25,12 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 100,
+                      "Price": "24,21 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 250,
+                      "Price": "23,37 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 500,
+                      "Price": "22,95 €",
+                      "Currency": "EUR"
+                  }
+              ],
+              "AlternatePackagings": null,
+              "ProductDetailUrl": "https://eu.mouser.com/ProductDetail/Storm-Interface/70040103?qs=X772OquulpVpCvpIaFResg%3D%3D",
+              "Reeling": false,
+              "ROHSStatus": "RoHS Compliant",
+              "SuggestedReplacement": "",
+              "MultiSimBlue": 0,
+              "AvailabilityInStock": "32",
+              "AvailabilityOnOrder": [],
+              "InfoMessages": [],
+              "ProductCompliance": [
+                  {
+                      "ComplianceName": "CNHTS",
+                      "ComplianceValue": "8532909000"
+                  },
+                  {
+                      "ComplianceName": "USHTS",
+                      "ComplianceValue": "8471607000"
+                  },
+                  {
+                      "ComplianceName": "MXHTS",
+                      "ComplianceValue": "8471600499"
+                  },
+                  {
+                      "ComplianceName": "ECCN",
+                      "ComplianceValue": "EAR99"
+                  }
+              ]
+          },
+          {
+              "Availability": "2 In Stock",
+              "DataSheetUrl": "",
+              "Description": "Input Devices 5000 Series Int & polymer keys",
+              "FactoryStock": "0",
+              "ImagePath": "https://www.mouser.com/images/storminterface/images/FT2K080_SPL.jpg",
+              "Category": "Input Devices",
+              "LeadTime": "42 Days",
+              "LifecycleStatus": null,
+              "Manufacturer": "Storm Interface",
+              "ManufacturerPartNumber": "FT2K0803",
+              "Min": "1",
+              "Mult": "1",
+              "MouserPartNumber": "491-FT2K080",
+              "ProductAttributes": [
+                  {
+                      "AttributeName": "Packaging",
+                      "AttributeValue": "Bulk"
+                  },
+                  {
+                      "AttributeName": "Standard Pack Qty",
+                      "AttributeValue": "1"
+                  }
+              ],
+              "PriceBreaks": [
+                  {
+                      "Quantity": 1,
+                      "Price": "164,59 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 10,
+                      "Price": "159,10 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 25,
+                      "Price": "148,13 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 50,
+                      "Price": "145,94 €",
+                      "Currency": "EUR"
+                  }
+              ],
+              "AlternatePackagings": null,
+              "ProductDetailUrl": "https://eu.mouser.com/ProductDetail/Storm-Interface/FT2K0803?qs=X772OquulpWSJNwV2x%252B%2FOg%3D%3D",
+              "Reeling": false,
+              "ROHSStatus": "RoHS Compliant",
+              "SuggestedReplacement": "",
+              "MultiSimBlue": 0,
+              "AvailabilityInStock": "2",
+              "AvailabilityOnOrder": [],
+              "InfoMessages": [],
+              "ProductCompliance": [
+                  {
+                      "ComplianceName": "CNHTS",
+                      "ComplianceValue": "8473309000"
+                  },
+                  {
+                      "ComplianceName": "USHTS",
+                      "ComplianceValue": "8473302000"
+                  },
+                  {
+                      "ComplianceName": "ECCN",
+                      "ComplianceValue": "EAR99"
+                  }
+              ]
+          },
+          {
+              "Availability": "1 In Stock",
+              "DataSheetUrl": "",
+              "Description": "Input Devices 5000 Series Int & metal keys",
+              "FactoryStock": "0",
+              "ImagePath": "https://www.mouser.com/images/storminterface/images/FT1K080_SPL.jpg",
+              "Category": "Input Devices",
+              "LeadTime": "42 Days",
+              "LifecycleStatus": null,
+              "Manufacturer": "Storm Interface",
+              "ManufacturerPartNumber": "FT1K0803",
+              "Min": "1",
+              "Mult": "1",
+              "MouserPartNumber": "491-FT1K080",
+              "ProductAttributes": [
+                  {
+                      "AttributeName": "Packaging",
+                      "AttributeValue": "Bulk"
+                  },
+                  {
+                      "AttributeName": "Standard Pack Qty",
+                      "AttributeValue": "1"
+                  }
+              ],
+              "PriceBreaks": [
+                  {
+                      "Quantity": 1,
+                      "Price": "191,38 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 10,
+                      "Price": "184,51 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 25,
+                      "Price": "180,55 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 50,
+                      "Price": "179,73 €",
+                      "Currency": "EUR"
+                  }
+              ],
+              "AlternatePackagings": null,
+              "ProductDetailUrl": "https://eu.mouser.com/ProductDetail/Storm-Interface/FT1K0803?qs=X772OquulpWd8TMyp1UqEQ%3D%3D",
+              "Reeling": false,
+              "ROHSStatus": "RoHS Compliant",
+              "SuggestedReplacement": "",
+              "MultiSimBlue": 0,
+              "AvailabilityInStock": "1",
+              "AvailabilityOnOrder": [],
+              "InfoMessages": [],
+              "ProductCompliance": [
+                  {
+                      "ComplianceName": "CNHTS",
+                      "ComplianceValue": "8473309000"
+                  },
+                  {
+                      "ComplianceName": "CAHTS",
+                      "ComplianceValue": "8537109920"
+                  },
+                  {
+                      "ComplianceName": "USHTS",
+                      "ComplianceValue": "8471609050"
+                  },
+                  {
+                      "ComplianceName": "TARIC",
+                      "ComplianceValue": "8537109899"
+                  },
+                  {
+                      "ComplianceName": "ECCN",
+                      "ComplianceValue": "EAR99"
+                  }
+              ]
+          },
+          {
+              "Availability": "1 In Stock",
+              "DataSheetUrl": "https://www.mouser.com/datasheet/2/707/File_1477065199-2325330.pdf",
+              "Description": "Input Devices SF6000 16 metal keys",
+              "FactoryStock": "0",
+              "ImagePath": "https://www.mouser.com/images/storminterface/images/8616-31002_SPL.jpg",
+              "Category": "Input Devices",
+              "LeadTime": "0 Days",
+              "LifecycleStatus": null,
+              "Manufacturer": "Storm Interface",
+              "ManufacturerPartNumber": "8616-310023",
+              "Min": "1",
+              "Mult": "1",
+              "MouserPartNumber": "491-8616-31002",
+              "ProductAttributes": [
+                  {
+                      "AttributeName": "Packaging",
+                      "AttributeValue": "Bulk"
+                  },
+                  {
+                      "AttributeName": "Standard Pack Qty",
+                      "AttributeValue": "1"
+                  }
+              ],
+              "PriceBreaks": [
+                  {
+                      "Quantity": 1,
+                      "Price": "158,22 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 10,
+                      "Price": "139,63 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 25,
+                      "Price": "138,36 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 50,
+                      "Price": "135,26 €",
+                      "Currency": "EUR"
+                  }
+              ],
+              "AlternatePackagings": null,
+              "ProductDetailUrl": "https://eu.mouser.com/ProductDetail/Storm-Interface/8616-310023?qs=X772OquulpWgFI9u5MP7Dw%3D%3D",
+              "Reeling": false,
+              "ROHSStatus": "RoHS Compliant",
+              "SuggestedReplacement": "",
+              "MultiSimBlue": 0,
+              "AvailabilityInStock": "1",
+              "AvailabilityOnOrder": [],
+              "InfoMessages": [],
+              "ProductCompliance": [
+                  {
+                      "ComplianceName": "USHTS",
+                      "ComplianceValue": "8471602000"
+                  },
+                  {
+                      "ComplianceName": "MXHTS",
+                      "ComplianceValue": "8471600499"
+                  },
+                  {
+                      "ComplianceName": "ECCN",
+                      "ComplianceValue": "EAR99"
+                  }
+              ]
+          },
+          {
+              "Availability": "5 In Stock",
+              "DataSheetUrl": "https://www.mouser.com/datasheet/2/707/ile-1395244876-1131357.pdf",
+              "Description": "Input Devices PLX Series 4 function keys",
+              "FactoryStock": "0",
+              "ImagePath": "https://www.mouser.com/images/storminterface/images/PLX04220_SPL.jpg",
+              "Category": "Input Devices",
+              "LeadTime": "0 Days",
+              "LifecycleStatus": null,
+              "Manufacturer": "Storm Interface",
+              "ManufacturerPartNumber": "PLX042203",
+              "Min": "1",
+              "Mult": "1",
+              "MouserPartNumber": "491-PLX04220",
+              "ProductAttributes": [
+                  {
+                      "AttributeName": "Packaging",
+                      "AttributeValue": "Bulk"
+                  },
+                  {
+                      "AttributeName": "Standard Pack Qty",
+                      "AttributeValue": "1"
+                  }
+              ],
+              "PriceBreaks": [
+                  {
+                      "Quantity": 1,
+                      "Price": "44,27 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 10,
+                      "Price": "41,67 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 25,
+                      "Price": "40,37 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 50,
+                      "Price": "36,67 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 100,
+                      "Price": "35,11 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 250,
+                      "Price": "34,48 €",
+                      "Currency": "EUR"
+                  }
+              ],
+              "AlternatePackagings": null,
+              "ProductDetailUrl": "https://eu.mouser.com/ProductDetail/Storm-Interface/PLX042203?qs=X772OquulpXxyD0GmXEgYQ%3D%3D",
+              "Reeling": false,
+              "ROHSStatus": "RoHS Compliant",
+              "SuggestedReplacement": "",
+              "MultiSimBlue": 0,
+              "AvailabilityInStock": "5",
+              "AvailabilityOnOrder": [],
+              "InfoMessages": [],
+              "ProductCompliance": [
+                  {
+                      "ComplianceName": "USHTS",
+                      "ComplianceValue": "8471609050"
+                  },
+                  {
+                      "ComplianceName": "MXHTS",
+                      "ComplianceValue": "8471600499"
+                  },
+                  {
+                      "ComplianceName": "ECCN",
+                      "ComplianceValue": "EAR99"
+                  }
+              ]
+          },
+          {
+              "Availability": "2 In Stock",
+              "DataSheetUrl": "",
+              "Description": "Modules Accessories Ribbon Cable",
+              "FactoryStock": "0",
+              "ImagePath": "https://www.mouser.com/images/storminterface/images/4200-10_SPL.jpg",
+              "Category": "Modules Accessories",
+              "LeadTime": "35 Days",
+              "LifecycleStatus": null,
+              "Manufacturer": "Storm Interface",
+              "ManufacturerPartNumber": "4200-103",
+              "Min": "1",
+              "Mult": "1",
+              "MouserPartNumber": "491-4200-10",
+              "ProductAttributes": [
+                  {
+                      "AttributeName": "Packaging",
+                      "AttributeValue": "Bulk"
+                  },
+                  {
+                      "AttributeName": "Standard Pack Qty",
+                      "AttributeValue": "1"
+                  }
+              ],
+              "PriceBreaks": [
+                  {
+                      "Quantity": 1,
+                      "Price": "20,03 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 10,
+                      "Price": "18,10 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 25,
+                      "Price": "17,72 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 50,
+                      "Price": "16,61 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 100,
+                      "Price": "16,13 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 250,
+                      "Price": "15,58 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 500,
+                      "Price": "15,02 €",
+                      "Currency": "EUR"
+                  }
+              ],
+              "AlternatePackagings": null,
+              "ProductDetailUrl": "https://eu.mouser.com/ProductDetail/Storm-Interface/4200-103?qs=X772OquulpXaX3c99fpcCg%3D%3D",
+              "Reeling": false,
+              "ROHSStatus": "RoHS Compliant",
+              "SuggestedReplacement": "",
+              "MultiSimBlue": 0,
+              "AvailabilityInStock": "2",
+              "AvailabilityOnOrder": [],
+              "InfoMessages": [],
+              "ProductCompliance": [
+                  {
+                      "ComplianceName": "CNHTS",
+                      "ComplianceValue": "8473309000"
+                  },
+                  {
+                      "ComplianceName": "USHTS",
+                      "ComplianceValue": "8473302000"
+                  },
+                  {
+                      "ComplianceName": "ECCN",
+                      "ComplianceValue": "EAR99"
+                  }
+              ]
+          },
+          {
+              "Availability": "16 In Stock",
+              "DataSheetUrl": "https://www.mouser.com/datasheet/2/707/ile-1396358361-1131619.pdf",
+              "Description": "Encoders 420 Series RS-232 Encoder",
+              "FactoryStock": "0",
+              "ImagePath": "https://www.mouser.com/images/storminterface/images/4200-00_SPL.jpg",
+              "Category": "Encoders",
+              "LeadTime": "35 Days",
+              "LifecycleStatus": null,
+              "Manufacturer": "Storm Interface",
+              "ManufacturerPartNumber": "4200-003",
+              "Min": "1",
+              "Mult": "1",
+              "MouserPartNumber": "491-4200-00",
+              "ProductAttributes": [
+                  {
+                      "AttributeName": "Packaging",
+                      "AttributeValue": "Bulk"
+                  },
+                  {
+                      "AttributeName": "Standard Pack Qty",
+                      "AttributeValue": "1"
+                  }
+              ],
+              "PriceBreaks": [
+                  {
+                      "Quantity": 1,
+                      "Price": "83,31 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 10,
+                      "Price": "81,45 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 25,
+                      "Price": "80,74 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 50,
+                      "Price": "69,80 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 100,
+                      "Price": "67,47 €",
+                      "Currency": "EUR"
+                  }
+              ],
+              "AlternatePackagings": null,
+              "ProductDetailUrl": "https://eu.mouser.com/ProductDetail/Storm-Interface/4200-003?qs=X772OquulpUNrvOkELRD4w%3D%3D",
+              "Reeling": false,
+              "ROHSStatus": "RoHS Compliant",
+              "SuggestedReplacement": "",
+              "MultiSimBlue": 0,
+              "AvailabilityInStock": "16",
+              "AvailabilityOnOrder": [],
+              "InfoMessages": [],
+              "ProductCompliance": [
+                  {
+                      "ComplianceName": "CNHTS",
+                      "ComplianceValue": "8543909000"
+                  },
+                  {
+                      "ComplianceName": "USHTS",
+                      "ComplianceValue": "8473301180"
+                  },
+                  {
+                      "ComplianceName": "TARIC",
+                      "ComplianceValue": "8536501590"
+                  },
+                  {
+                      "ComplianceName": "ECCN",
+                      "ComplianceValue": "EAR99"
+                  }
+              ]
+          },
+          {
+              "Availability": "3 In Stock",
+              "DataSheetUrl": "https://www.mouser.com/datasheet/2/707/ile-1396359713-1131667.pdf",
+              "Description": "Input Devices 2000 Series 12 Keys telephone",
+              "FactoryStock": "0",
+              "ImagePath": "https://www.mouser.com/images/storminterface/images/2K12T10_SPL.jpg",
+              "Category": "Input Devices",
+              "LeadTime": "45 Days",
+              "LifecycleStatus": null,
+              "Manufacturer": "Storm Interface",
+              "ManufacturerPartNumber": "2K12T103",
+              "Min": "1",
+              "Mult": "1",
+              "MouserPartNumber": "491-2K12T10",
+              "ProductAttributes": [
+                  {
+                      "AttributeName": "Packaging",
+                      "AttributeValue": "Bulk"
+                  },
+                  {
+                      "AttributeName": "Standard Pack Qty",
+                      "AttributeValue": "1"
+                  }
+              ],
+              "PriceBreaks": [
+                  {
+                      "Quantity": 1,
+                      "Price": "50,93 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 10,
+                      "Price": "47,93 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 25,
+                      "Price": "46,44 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 50,
+                      "Price": "43,44 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 100,
+                      "Price": "41,04 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 250,
+                      "Price": "39,85 €",
+                      "Currency": "EUR"
+                  }
+              ],
+              "AlternatePackagings": null,
+              "ProductDetailUrl": "https://eu.mouser.com/ProductDetail/Storm-Interface/2K12T103?qs=X772OquulpU%252B2%2FzAzRoEdQ%3D%3D",
+              "Reeling": false,
+              "ROHSStatus": "RoHS Compliant",
+              "SuggestedReplacement": "",
+              "MultiSimBlue": 0,
+              "AvailabilityInStock": "3",
+              "AvailabilityOnOrder": [],
+              "InfoMessages": [],
+              "ProductCompliance": [
+                  {
+                      "ComplianceName": "USHTS",
+                      "ComplianceValue": "8471609050"
+                  },
+                  {
+                      "ComplianceName": "MXHTS",
+                      "ComplianceValue": "8471600499"
+                  },
+                  {
+                      "ComplianceName": "ECCN",
+                      "ComplianceValue": "EAR99"
+                  }
+              ]
+          },
+          {
+              "Availability": "8 In Stock",
+              "DataSheetUrl": "https://www.mouser.com/datasheet/2/707/ile-1396359847-1131862.pdf",
+              "Description": "Encoders 450i Series USB Encoder",
+              "FactoryStock": "0",
+              "ImagePath": "https://www.mouser.com/images/storminterface/images/4500-10_SPL.jpg",
+              "Category": "Encoders",
+              "LeadTime": "18 Days",
+              "LifecycleStatus": null,
+              "Manufacturer": "Storm Interface",
+              "ManufacturerPartNumber": "4500-103",
+              "Min": "1",
+              "Mult": "1",
+              "MouserPartNumber": "491-4500-10",
+              "ProductAttributes": [
+                  {
+                      "AttributeName": "Packaging",
+                      "AttributeValue": "Bulk"
+                  },
+                  {
+                      "AttributeName": "Standard Pack Qty",
+                      "AttributeValue": "1"
+                  }
+              ],
+              "PriceBreaks": [
+                  {
+                      "Quantity": 1,
+                      "Price": "77,00 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 10,
+                      "Price": "75,91 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 25,
+                      "Price": "74,85 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 50,
+                      "Price": "64,16 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 100,
+                      "Price": "62,03 €",
+                      "Currency": "EUR"
+                  }
+              ],
+              "AlternatePackagings": null,
+              "ProductDetailUrl": "https://eu.mouser.com/ProductDetail/Storm-Interface/4500-103?qs=ZHnit%2F3SKrpNs94JshQsRg%3D%3D",
+              "Reeling": false,
+              "ROHSStatus": "RoHS Compliant",
+              "SuggestedReplacement": "",
+              "MultiSimBlue": 0,
+              "AvailabilityInStock": "8",
+              "AvailabilityOnOrder": [],
+              "InfoMessages": [],
+              "ProductCompliance": [
+                  {
+                      "ComplianceName": "CNHTS",
+                      "ComplianceValue": "8543909000"
+                  },
+                  {
+                      "ComplianceName": "USHTS",
+                      "ComplianceValue": "8471809000"
+                  },
+                  {
+                      "ComplianceName": "TARIC",
+                      "ComplianceValue": "8536501590"
+                  },
+                  {
+                      "ComplianceName": "ECCN",
+                      "ComplianceValue": "EAR99"
+                  }
+              ]
+          },
+          {
+              "Availability": "14 In Stock",
+              "DataSheetUrl": "https://www.mouser.com/datasheet/2/707/ile-1440156186-1131984.pdf",
+              "Description": "Switch Cases / Switch Covers 700 Series 12 Keys Black",
+              "FactoryStock": "0",
+              "ImagePath": "https://www.mouser.com/images/storminterface/images/700_series_12-key_SPL.jpg",
+              "Category": "Switch Cases / Switch Covers",
+              "LeadTime": "56 Days",
+              "LifecycleStatus": null,
+              "Manufacturer": "Storm Interface",
+              "ManufacturerPartNumber": "70120203",
+              "Min": "1",
+              "Mult": "1",
+              "MouserPartNumber": "491-7012020",
+              "ProductAttributes": [
+                  {
+                      "AttributeName": "Packaging",
+                      "AttributeValue": "Bulk"
+                  },
+                  {
+                      "AttributeName": "Standard Pack Qty",
+                      "AttributeValue": "1"
+                  }
+              ],
+              "PriceBreaks": [
+                  {
+                      "Quantity": 1,
+                      "Price": "38,99 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 10,
+                      "Price": "38,63 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 25,
+                      "Price": "37,01 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 50,
+                      "Price": "34,70 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 100,
+                      "Price": "33,54 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 250,
+                      "Price": "31,70 €",
+                      "Currency": "EUR"
+                  }
+              ],
+              "AlternatePackagings": null,
+              "ProductDetailUrl": "https://eu.mouser.com/ProductDetail/Storm-Interface/70120203?qs=X772OquulpWNQLuYBoGPpA%3D%3D",
+              "Reeling": false,
+              "ROHSStatus": "RoHS Compliant",
+              "SuggestedReplacement": "",
+              "MultiSimBlue": 0,
+              "AvailabilityInStock": "14",
+              "AvailabilityOnOrder": [],
+              "InfoMessages": [],
+              "ProductCompliance": [
+                  {
+                      "ComplianceName": "CNHTS",
+                      "ComplianceValue": "8471607100"
+                  },
+                  {
+                      "ComplianceName": "USHTS",
+                      "ComplianceValue": "8473305100"
+                  },
+                  {
+                      "ComplianceName": "MXHTS",
+                      "ComplianceValue": "8471600499"
+                  },
+                  {
+                      "ComplianceName": "ECCN",
+                      "ComplianceValue": "EAR99"
+                  }
+              ]
+          },
+          {
+              "Availability": "4 In Stock",
+              "DataSheetUrl": "https://www.mouser.com/datasheet/2/707/File-1396358420-1888448.pdf",
+              "Description": "Input Devices 1000 Series 16 Keys telephone",
+              "FactoryStock": "0",
+              "ImagePath": "https://www.mouser.com/images/storminterface/images/1K16T10_SPL.jpg",
+              "Category": "Input Devices",
+              "LeadTime": "35 Days",
+              "LifecycleStatus": null,
+              "Manufacturer": "Storm Interface",
+              "ManufacturerPartNumber": "1K16T103",
+              "Min": "1",
+              "Mult": "1",
+              "MouserPartNumber": "491-1K16T10",
+              "ProductAttributes": [
+                  {
+                      "AttributeName": "Packaging",
+                      "AttributeValue": "Bulk"
+                  },
+                  {
+                      "AttributeName": "Standard Pack Qty",
+                      "AttributeValue": "1"
+                  }
+              ],
+              "PriceBreaks": [
+                  {
+                      "Quantity": 1,
+                      "Price": "85,97 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 10,
+                      "Price": "83,09 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 25,
+                      "Price": "80,50 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 50,
+                      "Price": "75,30 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 100,
+                      "Price": "71,16 €",
+                      "Currency": "EUR"
+                  }
+              ],
+              "AlternatePackagings": null,
+              "ProductDetailUrl": "https://eu.mouser.com/ProductDetail/Storm-Interface/1K16T103?qs=ZHnit%2F3SKrrTeviecMXycw%3D%3D",
+              "Reeling": false,
+              "ROHSStatus": "RoHS Compliant",
+              "SuggestedReplacement": "",
+              "MultiSimBlue": 0,
+              "AvailabilityInStock": "4",
+              "AvailabilityOnOrder": [],
+              "InfoMessages": [],
+              "ProductCompliance": [
+                  {
+                      "ComplianceName": "USHTS",
+                      "ComplianceValue": "8471609050"
+                  },
+                  {
+                      "ComplianceName": "MXHTS",
+                      "ComplianceValue": "8471600499"
+                  },
+                  {
+                      "ComplianceName": "ECCN",
+                      "ComplianceValue": "EAR99"
+                  }
+              ]
+          },
+          {
+              "Availability": "5 In Stock",
+              "DataSheetUrl": "https://www.mouser.com/datasheet/2/707/File-1396358420-1888448.pdf",
+              "Description": "Input Devices 1000 Series 4 cursor arrow keys",
+              "FactoryStock": "0",
+              "ImagePath": "https://www.mouser.com/images/storminterface/images/1K04110_SPL.jpg",
+              "Category": "Input Devices",
+              "LeadTime": "28 Days",
+              "LifecycleStatus": null,
+              "Manufacturer": "Storm Interface",
+              "ManufacturerPartNumber": "1K041103",
+              "Min": "1",
+              "Mult": "1",
+              "MouserPartNumber": "491-1K04110",
+              "ProductAttributes": [
+                  {
+                      "AttributeName": "Packaging",
+                      "AttributeValue": "Bulk"
+                  },
+                  {
+                      "AttributeName": "Standard Pack Qty",
+                      "AttributeValue": "1"
+                  }
+              ],
+              "PriceBreaks": [
+                  {
+                      "Quantity": 1,
+                      "Price": "50,93 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 10,
+                      "Price": "47,93 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 25,
+                      "Price": "45,38 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 50,
+                      "Price": "43,44 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 100,
+                      "Price": "41,04 €",
+                      "Currency": "EUR"
+                  }
+              ],
+              "AlternatePackagings": null,
+              "ProductDetailUrl": "https://eu.mouser.com/ProductDetail/Storm-Interface/1K041103?qs=X772OquulpXnug7Cy8QqMA%3D%3D",
+              "Reeling": false,
+              "ROHSStatus": "RoHS Compliant",
+              "SuggestedReplacement": "",
+              "MultiSimBlue": 0,
+              "AvailabilityInStock": "5",
+              "AvailabilityOnOrder": [],
+              "InfoMessages": [],
+              "ProductCompliance": [
+                  {
+                      "ComplianceName": "USHTS",
+                      "ComplianceValue": "8471607000"
+                  },
+                  {
+                      "ComplianceName": "MXHTS",
+                      "ComplianceValue": "8471600499"
+                  },
+                  {
+                      "ComplianceName": "ECCN",
+                      "ComplianceValue": "EAR99"
+                  }
+              ]
+          },
+          {
+              "Availability": "3 In Stock",
+              "DataSheetUrl": "https://www.mouser.com/datasheet/2/707/ile-1420543271-1131957.pdf",
+              "Description": "Input Devices Nav-Pad 8 Key Matrix matrix",
+              "FactoryStock": "0",
+              "ImagePath": "https://www.mouser.com/images/storminterface/images/EZ08_SPL.jpg",
+              "Category": "Input Devices",
+              "LeadTime": "0 Days",
+              "LifecycleStatus": null,
+              "Manufacturer": "Storm Interface",
+              "ManufacturerPartNumber": "EZ08-210013",
+              "Min": "1",
+              "Mult": "1",
+              "MouserPartNumber": "491-EZ08-21001",
+              "ProductAttributes": [
+                  {
+                      "AttributeName": "Packaging",
+                      "AttributeValue": "Bulk"
+                  },
+                  {
+                      "AttributeName": "Standard Pack Qty",
+                      "AttributeValue": "1"
+                  }
+              ],
+              "PriceBreaks": [
+                  {
+                      "Quantity": 1,
+                      "Price": "110,26 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 10,
+                      "Price": "105,14 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 25,
+                      "Price": "103,34 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 50,
+                      "Price": "99,73 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 100,
+                      "Price": "96,85 €",
+                      "Currency": "EUR"
+                  }
+              ],
+              "AlternatePackagings": null,
+              "ProductDetailUrl": "https://eu.mouser.com/ProductDetail/Storm-Interface/EZ08-210013?qs=X772OquulpXunmXDpydkMw%3D%3D",
+              "Reeling": false,
+              "ROHSStatus": "RoHS Compliant",
+              "SuggestedReplacement": "",
+              "MultiSimBlue": 0,
+              "AvailabilityInStock": "3",
+              "AvailabilityOnOrder": [],
+              "InfoMessages": [],
+              "ProductCompliance": [
+                  {
+                      "ComplianceName": "USHTS",
+                      "ComplianceValue": "8471602000"
+                  },
+                  {
+                      "ComplianceName": "MXHTS",
+                      "ComplianceValue": "8471600499"
+                  },
+                  {
+                      "ComplianceName": "ECCN",
+                      "ComplianceValue": "EAR99"
+                  }
+              ]
+          },
+          {
+              "Availability": "4 In Stock",
+              "DataSheetUrl": "https://www.mouser.com/datasheet/2/707/File_1553267814-2325391.pdf",
+              "Description": "Audio Modules AudioComm Microphone Module (Vertical, Silver)",
+              "FactoryStock": "0",
+              "ImagePath": "https://www.mouser.com/images/storminterface/images/AT02_series_t.jpg",
+              "Category": "Audio Modules",
+              "LeadTime": "42 Days",
+              "LifecycleStatus": null,
+              "Manufacturer": "Storm Interface",
+              "ManufacturerPartNumber": "AT02-430016",
+              "Min": "1",
+              "Mult": "1",
+              "MouserPartNumber": "491-AT02-430016",
+              "ProductAttributes": [
+                  {
+                      "AttributeName": "Standard Pack Qty",
+                      "AttributeValue": "5"
+                  }
+              ],
+              "PriceBreaks": [
+                  {
+                      "Quantity": 1,
+                      "Price": "172,21 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 10,
+                      "Price": "162,07 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 25,
+                      "Price": "157,02 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 50,
+                      "Price": "146,88 €",
+                      "Currency": "EUR"
+                  }
+              ],
+              "AlternatePackagings": null,
+              "ProductDetailUrl": "https://eu.mouser.com/ProductDetail/Storm-Interface/AT02-430016?qs=UkDUCjYnTB3NB3%252B92J0vzQ%3D%3D",
+              "Reeling": false,
+              "ROHSStatus": "RoHS Compliant",
+              "SuggestedReplacement": "",
+              "MultiSimBlue": 0,
+              "AvailabilityInStock": "4",
+              "AvailabilityOnOrder": [],
+              "InfoMessages": [],
+              "ProductCompliance": [
+                  {
+                      "ComplianceName": "CNHTS",
+                      "ComplianceValue": "8518900000"
+                  },
+                  {
+                      "ComplianceName": "USHTS",
+                      "ComplianceValue": "8543709860"
+                  },
+                  {
+                      "ComplianceName": "ECCN",
+                      "ComplianceValue": "EAR99"
+                  }
+              ]
+          },
+          {
+              "Availability": "5 In Stock",
+              "DataSheetUrl": "https://www.mouser.com/datasheet/2/707/ile_1410971337-1131508.pdf",
+              "Description": "Modules Accessories 5000 Series beze",
+              "FactoryStock": "0",
+              "ImagePath": "https://www.mouser.com/images/storminterface/images/5001-20020_SPL.jpg",
+              "Category": "Modules Accessories",
+              "LeadTime": "27 Days",
+              "LifecycleStatus": null,
+              "Manufacturer": "Storm Interface",
+              "ManufacturerPartNumber": "5001-200203",
+              "Min": "1",
+              "Mult": "1",
+              "MouserPartNumber": "491-5001-20020",
+              "ProductAttributes": [
+                  {
+                      "AttributeName": "Packaging",
+                      "AttributeValue": "Bulk"
+                  },
+                  {
+                      "AttributeName": "Standard Pack Qty",
+                      "AttributeValue": "1"
+                  }
+              ],
+              "PriceBreaks": [
+                  {
+                      "Quantity": 1,
+                      "Price": "92,81 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 10,
+                      "Price": "86,81 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 100,
+                      "Price": "79,69 €",
+                      "Currency": "EUR"
+                  }
+              ],
+              "AlternatePackagings": null,
+              "ProductDetailUrl": "https://eu.mouser.com/ProductDetail/Storm-Interface/5001-200203?qs=X772OquulpWo5CGPKcnXag%3D%3D",
+              "Reeling": false,
+              "ROHSStatus": "RoHS Compliant",
+              "SuggestedReplacement": "",
+              "MultiSimBlue": 0,
+              "AvailabilityInStock": "5",
+              "AvailabilityOnOrder": [],
+              "InfoMessages": [],
+              "ProductCompliance": [
+                  {
+                      "ComplianceName": "CNHTS",
+                      "ComplianceValue": "8473309000"
+                  },
+                  {
+                      "ComplianceName": "USHTS",
+                      "ComplianceValue": "8471601050"
+                  },
+                  {
+                      "ComplianceName": "ECCN",
+                      "ComplianceValue": "EAR99"
+                  }
+              ]
+          },
+          {
+              "Availability": "1 In Stock",
+              "DataSheetUrl": "https://www.mouser.com/datasheet/2/707/Storm-Interface-541463.pdf",
+              "Description": "Sensor Hardware & Accessories Magnetic Door &Gate Lock",
+              "FactoryStock": "0",
+              "ImagePath": "https://www.mouser.com/images/storminterface/images/DEGL1200_SPL.jpg",
+              "Category": "Sensor Hardware & Accessories",
+              "LeadTime": "26 Days",
+              "LifecycleStatus": null,
+              "Manufacturer": "Storm Interface",
+              "ManufacturerPartNumber": "DEGL12003",
+              "Min": "1",
+              "Mult": "1",
+              "MouserPartNumber": "491-DEGL1200",
+              "ProductAttributes": [
+                  {
+                      "AttributeName": "Packaging",
+                      "AttributeValue": "Bulk"
+                  },
+                  {
+                      "AttributeName": "Standard Pack Qty",
+                      "AttributeValue": "1"
+                  }
+              ],
+              "PriceBreaks": [
+                  {
+                      "Quantity": 1,
+                      "Price": "381,40 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 10,
+                      "Price": "376,65 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 25,
+                      "Price": "366,98 €",
+                      "Currency": "EUR"
+                  }
+              ],
+              "AlternatePackagings": null,
+              "ProductDetailUrl": "https://eu.mouser.com/ProductDetail/Storm-Interface/DEGL12003?qs=ZHnit%2F3SKrpotQNGMIfqiQ%3D%3D",
+              "Reeling": false,
+              "ROHSStatus": "RoHS Compliant",
+              "SuggestedReplacement": "",
+              "MultiSimBlue": 0,
+              "AvailabilityInStock": "1",
+              "AvailabilityOnOrder": [],
+              "InfoMessages": [],
+              "ProductCompliance": [
+                  {
+                      "ComplianceName": "CNHTS",
+                      "ComplianceValue": "9031809090"
+                  },
+                  {
+                      "ComplianceName": "USHTS",
+                      "ComplianceValue": "8301406060"
+                  },
+                  {
+                      "ComplianceName": "ECCN",
+                      "ComplianceValue": "EAR99"
+                  }
+              ]
+          },
+          {
+              "Availability": "6 In Stock",
+              "DataSheetUrl": "https://www.mouser.com/datasheet/2/707/ile-1396360023-1290888.pdf",
+              "Description": "Input Devices 720TFX Series 12 keys",
+              "FactoryStock": "0",
+              "ImagePath": "https://www.mouser.com/images/storminterface/images/7203-12T020_SPL.jpg",
+              "Category": "Input Devices",
+              "LeadTime": "0 Days",
+              "LifecycleStatus": null,
+              "Manufacturer": "Storm Interface",
+              "ManufacturerPartNumber": "7203-12T0203",
+              "Min": "1",
+              "Mult": "1",
+              "MouserPartNumber": "491-7203-12T020",
+              "ProductAttributes": [
+                  {
+                      "AttributeName": "Packaging",
+                      "AttributeValue": "Bulk"
+                  },
+                  {
+                      "AttributeName": "Standard Pack Qty",
+                      "AttributeValue": "1"
+                  }
+              ],
+              "PriceBreaks": [
+                  {
+                      "Quantity": 1,
+                      "Price": "33,19 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 10,
+                      "Price": "30,11 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 25,
+                      "Price": "29,30 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 50,
+                      "Price": "27,72 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 100,
+                      "Price": "26,80 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 250,
+                      "Price": "25,32 €",
+                      "Currency": "EUR"
+                  }
+              ],
+              "AlternatePackagings": null,
+              "ProductDetailUrl": "https://eu.mouser.com/ProductDetail/Storm-Interface/7203-12T0203?qs=ZHnit%2F3SKroSentKUxIC1w%3D%3D",
+              "Reeling": false,
+              "ROHSStatus": "RoHS Compliant",
+              "SuggestedReplacement": "",
+              "MultiSimBlue": 0,
+              "AvailabilityInStock": "6",
+              "AvailabilityOnOrder": [],
+              "InfoMessages": [],
+              "ProductCompliance": [
+                  {
+                      "ComplianceName": "USHTS",
+                      "ComplianceValue": "8471609050"
+                  },
+                  {
+                      "ComplianceName": "MXHTS",
+                      "ComplianceValue": "8471600499"
+                  },
+                  {
+                      "ComplianceName": "ECCN",
+                      "ComplianceValue": "EAR99"
+                  }
+              ]
+          },
+          {
+              "Availability": "2 In Stock",
+              "DataSheetUrl": "https://www.mouser.com/datasheet/2/707/File_1477065199-2325330.pdf",
+              "Description": "Input Devices SF6000 16 illuminated keys",
+              "FactoryStock": "0",
+              "ImagePath": "https://www.mouser.com/images/storminterface/images/8616-41002_SPL.jpg",
+              "Category": "Input Devices",
+              "LeadTime": "0 Days",
+              "LifecycleStatus": null,
+              "Manufacturer": "Storm Interface",
+              "ManufacturerPartNumber": "8616-410023",
+              "Min": "1",
+              "Mult": "1",
+              "MouserPartNumber": "491-8616-41002",
+              "ProductAttributes": [
+                  {
+                      "AttributeName": "Packaging",
+                      "AttributeValue": "Bulk"
+                  },
+                  {
+                      "AttributeName": "Standard Pack Qty",
+                      "AttributeValue": "1"
+                  }
+              ],
+              "PriceBreaks": [
+                  {
+                      "Quantity": 1,
+                      "Price": "139,64 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 10,
+                      "Price": "130,32 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 25,
+                      "Price": "125,67 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 50,
+                      "Price": "123,81 €",
+                      "Currency": "EUR"
+                  }
+              ],
+              "AlternatePackagings": null,
+              "ProductDetailUrl": "https://eu.mouser.com/ProductDetail/Storm-Interface/8616-410023?qs=X772OquulpXVDChBfBea7w%3D%3D",
+              "Reeling": false,
+              "ROHSStatus": "RoHS Compliant",
+              "SuggestedReplacement": "",
+              "MultiSimBlue": 0,
+              "AvailabilityInStock": "2",
+              "AvailabilityOnOrder": [],
+              "InfoMessages": [],
+              "ProductCompliance": [
+                  {
+                      "ComplianceName": "USHTS",
+                      "ComplianceValue": "8471602000"
+                  },
+                  {
+                      "ComplianceName": "MXHTS",
+                      "ComplianceValue": "8471600499"
+                  },
+                  {
+                      "ComplianceName": "ECCN",
+                      "ComplianceValue": "EAR99"
+                  }
+              ]
+          },
+          {
+              "Availability": "4 In Stock",
+              "DataSheetUrl": "https://www.mouser.com/datasheet/2/707/ile-1395244876-1131357.pdf",
+              "Description": "Input Devices PLX Series 16 Keys telephone",
+              "FactoryStock": "0",
+              "ImagePath": "https://www.mouser.com/images/storminterface/images/PLX16T20_SPL.jpg",
+              "Category": "Input Devices",
+              "LeadTime": "0 Days",
+              "LifecycleStatus": null,
+              "Manufacturer": "Storm Interface",
+              "ManufacturerPartNumber": "PLX16T203",
+              "Min": "1",
+              "Mult": "1",
+              "MouserPartNumber": "491-PLX16T20",
+              "ProductAttributes": [
+                  {
+                      "AttributeName": "Packaging",
+                      "AttributeValue": "Bulk"
+                  },
+                  {
+                      "AttributeName": "Standard Pack Qty",
+                      "AttributeValue": "1"
+                  }
+              ],
+              "PriceBreaks": [
+                  {
+                      "Quantity": 1,
+                      "Price": "76,78 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 10,
+                      "Price": "68,82 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 25,
+                      "Price": "67,20 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 50,
+                      "Price": "64,49 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 100,
+                      "Price": "61,88 €",
+                      "Currency": "EUR"
+                  }
+              ],
+              "AlternatePackagings": null,
+              "ProductDetailUrl": "https://eu.mouser.com/ProductDetail/Storm-Interface/PLX16T203?qs=ZHnit%2F3SKrr9YFh6bAzKnw%3D%3D",
+              "Reeling": false,
+              "ROHSStatus": "RoHS Compliant",
+              "SuggestedReplacement": "",
+              "MultiSimBlue": 0,
+              "AvailabilityInStock": "4",
+              "AvailabilityOnOrder": [],
+              "InfoMessages": [],
+              "ProductCompliance": [
+                  {
+                      "ComplianceName": "USHTS",
+                      "ComplianceValue": "8471602000"
+                  },
+                  {
+                      "ComplianceName": "MXHTS",
+                      "ComplianceValue": "8471600499"
+                  },
+                  {
+                      "ComplianceName": "ECCN",
+                      "ComplianceValue": "EAR99"
+                  }
+              ]
+          },
+          {
+              "Availability": "28 In Stock",
+              "DataSheetUrl": "https://www.mouser.com/datasheet/2/707/ile-1439475975-1132043.pdf",
+              "Description": "Input Devices 3000 Series 4 c ursor arrow keys",
+              "FactoryStock": "0",
+              "ImagePath": "https://www.mouser.com/images/storminterface/images/3K04110_SPL.jpg",
+              "Category": "Input Devices",
+              "LeadTime": "38 Days",
+              "LifecycleStatus": null,
+              "Manufacturer": "Storm Interface",
+              "ManufacturerPartNumber": "3K041103",
+              "Min": "1",
+              "Mult": "1",
+              "MouserPartNumber": "491-3K04110",
+              "ProductAttributes": [
+                  {
+                      "AttributeName": "Packaging",
+                      "AttributeValue": "Bulk"
+                  },
+                  {
+                      "AttributeName": "Standard Pack Qty",
+                      "AttributeValue": "1"
+                  }
+              ],
+              "PriceBreaks": [
+                  {
+                      "Quantity": 1,
+                      "Price": "24,35 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 10,
+                      "Price": "21,99 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 25,
+                      "Price": "21,07 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 50,
+                      "Price": "19,75 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 100,
+                      "Price": "19,09 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 250,
+                      "Price": "18,04 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 500,
+                      "Price": "17,51 €",
+                      "Currency": "EUR"
+                  }
+              ],
+              "AlternatePackagings": null,
+              "ProductDetailUrl": "https://eu.mouser.com/ProductDetail/Storm-Interface/3K041103?qs=X772OquulpU9pYw2y6tEAA%3D%3D",
+              "Reeling": false,
+              "ROHSStatus": "RoHS Compliant",
+              "SuggestedReplacement": "",
+              "MultiSimBlue": 0,
+              "AvailabilityInStock": "28",
+              "AvailabilityOnOrder": [],
+              "InfoMessages": [],
+              "ProductCompliance": [
+                  {
+                      "ComplianceName": "USHTS",
+                      "ComplianceValue": "8471609050"
+                  },
+                  {
+                      "ComplianceName": "MXHTS",
+                      "ComplianceValue": "8471600499"
+                  },
+                  {
+                      "ComplianceName": "ECCN",
+                      "ComplianceValue": "EAR99"
+                  }
+              ]
+          },
+          {
+              "Availability": "2 In Stock",
+              "DataSheetUrl": "https://www.mouser.com/datasheet/2/707/ile-1396359459-1131897.pdf",
+              "Description": "Switch Cases / Switch Covers Legend Tile Set A for GFXs",
+              "FactoryStock": "0",
+              "ImagePath": "https://www.mouser.com/images/storminterface/images/GSA0T20_SPL.jpg",
+              "Category": "Switch Cases / Switch Covers",
+              "LeadTime": "0 Days",
+              "LifecycleStatus": null,
+              "Manufacturer": "Storm Interface",
+              "ManufacturerPartNumber": "GSA0T203",
+              "Min": "1",
+              "Mult": "1",
+              "MouserPartNumber": "491-GSA0T20",
+              "ProductAttributes": [
+                  {
+                      "AttributeName": "Packaging",
+                      "AttributeValue": "Bulk"
+                  },
+                  {
+                      "AttributeName": "Standard Pack Qty",
+                      "AttributeValue": "1"
+                  }
+              ],
+              "PriceBreaks": [
+                  {
+                      "Quantity": 1,
+                      "Price": "3,22 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 10,
+                      "Price": "3,14 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 25,
+                      "Price": "3,06 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 50,
+                      "Price": "2,96 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 100,
+                      "Price": "2,90 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 250,
+                      "Price": "2,82 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 500,
+                      "Price": "2,77 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 1000,
+                      "Price": "2,46 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 2500,
+                      "Price": "2,38 €",
+                      "Currency": "EUR"
+                  }
+              ],
+              "AlternatePackagings": null,
+              "ProductDetailUrl": "https://eu.mouser.com/ProductDetail/Storm-Interface/GSA0T203?qs=ZHnit%2F3SKrqsTWz6oEpbnw%3D%3D",
+              "Reeling": false,
+              "ROHSStatus": "RoHS Compliant",
+              "SuggestedReplacement": "",
+              "MultiSimBlue": 0,
+              "AvailabilityInStock": "2",
+              "AvailabilityOnOrder": [],
+              "InfoMessages": [],
+              "ProductCompliance": [
+                  {
+                      "ComplianceName": "CNHTS",
+                      "ComplianceValue": "8532909000"
+                  },
+                  {
+                      "ComplianceName": "CAHTS",
+                      "ComplianceValue": "8538903900"
+                  },
+                  {
+                      "ComplianceName": "USHTS",
+                      "ComplianceValue": "8538906000"
+                  },
+                  {
+                      "ComplianceName": "JPHTS",
+                      "ComplianceValue": "853890000"
+                  },
+                  {
+                      "ComplianceName": "TARIC",
+                      "ComplianceValue": "8538909999"
+                  },
+                  {
+                      "ComplianceName": "BRHTS",
+                      "ComplianceValue": "85389090"
+                  },
+                  {
+                      "ComplianceName": "ECCN",
+                      "ComplianceValue": "EAR99"
+                  }
+              ]
+          },
+          {
+              "Availability": "1 In Stock",
+              "DataSheetUrl": "https://www.mouser.com/datasheet/2/707/ile-1439475975-1132043.pdf",
+              "Description": "Input Devices 3000 Series 16 Keys calc",
+              "FactoryStock": "0",
+              "ImagePath": "https://www.mouser.com/images/storminterface/images/3K16010_SPL.jpg",
+              "Category": "Input Devices",
+              "LeadTime": "0 Days",
+              "LifecycleStatus": null,
+              "Manufacturer": "Storm Interface",
+              "ManufacturerPartNumber": "3K160103",
+              "Min": "1",
+              "Mult": "1",
+              "MouserPartNumber": "491-3K16010",
+              "ProductAttributes": [
+                  {
+                      "AttributeName": "Packaging",
+                      "AttributeValue": "Bulk"
+                  },
+                  {
+                      "AttributeName": "Standard Pack Qty",
+                      "AttributeValue": "1"
+                  }
+              ],
+              "PriceBreaks": [
+                  {
+                      "Quantity": 1,
+                      "Price": "43,71 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 10,
+                      "Price": "39,46 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 25,
+                      "Price": "37,81 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 50,
+                      "Price": "35,44 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 100,
+                      "Price": "34,26 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 250,
+                      "Price": "32,37 €",
+                      "Currency": "EUR"
+                  }
+              ],
+              "AlternatePackagings": null,
+              "ProductDetailUrl": "https://eu.mouser.com/ProductDetail/Storm-Interface/3K160103?qs=X772OquulpVdIA%2FzB7mJrg%3D%3D",
+              "Reeling": false,
+              "ROHSStatus": "RoHS Compliant",
+              "SuggestedReplacement": "",
+              "MultiSimBlue": 0,
+              "AvailabilityInStock": "1",
+              "AvailabilityOnOrder": [],
+              "InfoMessages": [],
+              "ProductCompliance": [
+                  {
+                      "ComplianceName": "USHTS",
+                      "ComplianceValue": "8471602000"
+                  },
+                  {
+                      "ComplianceName": "MXHTS",
+                      "ComplianceValue": "8471600499"
+                  },
+                  {
+                      "ComplianceName": "ECCN",
+                      "ComplianceValue": "EAR99"
+                  }
+              ]
+          },
+          {
+              "Availability": "10 In Stock",
+              "DataSheetUrl": "https://www.mouser.com/datasheet/2/707/ile-1395244876-1131357.pdf",
+              "Description": "Input Devices PLX Series 12 Keys calc",
+              "FactoryStock": "0",
+              "ImagePath": "https://www.mouser.com/images/storminterface/images/PLX12020_SPL.jpg",
+              "Category": "Input Devices",
+              "LeadTime": "87 Days",
+              "LifecycleStatus": null,
+              "Manufacturer": "Storm Interface",
+              "ManufacturerPartNumber": "PLX120203",
+              "Min": "1",
+              "Mult": "1",
+              "MouserPartNumber": "491-PLX12020",
+              "ProductAttributes": [
+                  {
+                      "AttributeName": "Packaging",
+                      "AttributeValue": "Bulk"
+                  },
+                  {
+                      "AttributeName": "Standard Pack Qty",
+                      "AttributeValue": "1"
+                  }
+              ],
+              "PriceBreaks": [
+                  {
+                      "Quantity": 1,
+                      "Price": "63,98 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 10,
+                      "Price": "60,23 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 25,
+                      "Price": "58,34 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 50,
+                      "Price": "54,58 €",
+                      "Currency": "EUR"
+                  },
+                  {
+                      "Quantity": 100,
+                      "Price": "51,57 €",
+                      "Currency": "EUR"
+                  }
+              ],
+              "AlternatePackagings": null,
+              "ProductDetailUrl": "https://eu.mouser.com/ProductDetail/Storm-Interface/PLX120203?qs=X772OquulpXr8g5%2FiMNYLg%3D%3D",
+              "Reeling": false,
+              "ROHSStatus": "RoHS Compliant",
+              "SuggestedReplacement": "",
+              "MultiSimBlue": 0,
+              "AvailabilityInStock": "10",
+              "AvailabilityOnOrder": [],
+              "InfoMessages": [],
+              "ProductCompliance": [
+                  {
+                      "ComplianceName": "USHTS",
+                      "ComplianceValue": "8471602000"
+                  },
+                  {
+                      "ComplianceName": "MXHTS",
+                      "ComplianceValue": "8471600499"
+                  },
+                  {
+                      "ComplianceName": "ECCN",
+                      "ComplianceValue": "EAR99"
+                  }
+              ]
+          }
+      ]
+  }
+}
