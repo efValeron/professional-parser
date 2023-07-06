@@ -121,16 +121,13 @@ for index, keyword in enumerate(keywords):
     break
   else:
     response_parts, number_of_result = data[0], data[1]
-  
-  print(number_of_result)
 
   for part_index, part in enumerate(response_parts):
     with open('keywords_parse.csv', 'a') as kw_ps:
-      kw_ps.write(';'.join([f"{part[value]}" for value in values]) + '\n')
+      kw_ps.write(';'.join([f"{part[value]}" if value in part else "" for value in values]) + '\n')
 
   for i in range(math.ceil(number_of_result / 50) - 1):
     starting_record = (i + 1) * 50 + 1
-    print(starting_record)
 
     payload = json.dumps({
       "SearchByKeywordRequest": {

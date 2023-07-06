@@ -65,6 +65,8 @@ for index, articles_arr in enumerate(grouped_articles):
     }
   })
 
+  print(payload)
+
   try:
     response = requests.request("POST", url, headers=headers, data=payload)
   except Exception as err:
