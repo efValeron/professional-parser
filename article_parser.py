@@ -25,8 +25,7 @@ def parse_and_write_parts(parts, all_requested_parts, not_found):
                     price_break_price_1 = re.search(r"\d+,?\d+", price).group()
                     price_break_currency_1 = pb.get('Currency')
                 
-                kw_ps.write(';'.join([
-                    f"{found_part[value]}" if value in found_part else "" for value in values[:-3]
+                kw_ps.write(f"{requested_part_number};found;" + ';'.join([f"{found_part[value]}" if value in found_part else "" for value in values[2:-3]
                 ]) + f";{price_break_quantity_1};{price_break_price_1};{price_break_currency_1}\n")
             else:
                 current_not_found += 1
@@ -45,7 +44,9 @@ headers = {
     'Content-Type': 'application/json',
     'Accept': 'application/json'
 }
-values = ['Availability',
+values = ['Article',
+          'Status',   
+          'Availability',
           'DataSheetUrl',
           'Description',
           'FactoryStock',
