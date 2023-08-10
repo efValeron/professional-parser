@@ -26,8 +26,13 @@ def find_link_by_key(data, key):
   return None
 
 
-def parse_and_write_parts(parts):
+def parse_and_write_parts(parts, all_requested_arts):
+  res_part_nums = [part["MouserPartNumber"] for part in parts if part["MouserPartNumber"] != 'N/A']
+  print(res_part_nums)
   for part in parts:
+    if part["MouserPartNumber"] not in res_part_nums:
+      continue
+
     price_break_quantity_1 = ''
     price_break_price_1 = ''
     price_break_currency_1 = ''
@@ -164,50 +169,20 @@ for index, articles_arr in enumerate(grouped_articles):
         articles_parse.write(f'{art};request error\n')
         print('SearchResult or Parts nof found')  # ? log error
     continue
-  else:
-    for part in json_res['SearchResults']['Parts']:
-      with open('article_parse.csv', 'a') as kw_ps:
-        kw_ps.write(';'.join([f"{part[value]}" if value in part else "" for value in values]) + '\n')
-      # print(part["Availability"] if "Availability" in part else "")
+  # else:
+  #   for part in json_res['SearchResults']['Parts']:
+  #     with open('article_parse.csv', 'a') as kw_ps:
+  #       kw_ps.write(';'.join([f"{part[value]}" if value in part else "" for value in values]) + '\n')
+  #     # print(part["Availability"] if "Availability" in part else "")
 
-    # response_parts = [
-    #   {part['MouserPartNumber']: part['ProductDetailUrl']}
-    #   if part['MouserPartNumber'] in articles_arr
-    #   else {part['ManufacturerPartNumber']: part['ProductDetailUrl']}
-    #   for part in json_res['SearchResults']['Parts']
-    #   if part['MouserPartNumber'] in articles_arr or part['ManufacturerPartNumber'] in articles_arr
-    # ]
+  response_parts = json_res['SearchResults']['Parts']
 
-    response_parts = json_res['SearchResults']['Parts']
+  if len(response_parts) < 1:
+    continue
 
-    print(response_parts[0]["PriceBreaks"])
+  print(response_parts[0]["PriceBreaks"])
 
-    parse_and_write_parts(response_parts)
-
-  # parts_keys = [list(part.keys())[0] for part in response_parts]
-
-  # not_defined_articles = remove_duplicates(parts_keys, articles_arr)[1]
-  # defined_articles = find_common_elements(parts_keys, articles_arr)
-
-  # try:
-  #   for defined_article in defined_articles:
-  #     with open('article_parse.csv', 'a') as articles_parse:
-  #       articles_parse.write(f'{defined_article};{find_link_by_key(response_parts, defined_article)}\n')
-  # except Exception as err:
-  #   with open('article_parse.csv', 'a') as articles_parse:
-  #       articles_parse.write(f'{defined_article};writing error\n')
-  #       print('writing error') #? log error
-  #   continue
-
-  # try:
-  #   for not_defined_article in not_defined_articles:
-  #     with open('article_parse.csv', 'a') as articles_parse:
-  #       articles_parse.write(f'{not_defined_article};Not found\n')
-  # except Exception as err:
-  #   with open('article_parse.csv', 'a') as articles_parse:
-  #       articles_parse.write(f'{defined_article};writing error\n')
-  #       print('writing error') #? log error
-  #   continue
+  parse_and_write_parts(response_parts)
 
   # ? debug
   # print(f'{index + 1} REQUEST IS COMPLETE. {len(not_defined_articles)} ARTICLES NOT FOUND OUT OF {len(articles_arr)}')
