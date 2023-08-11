@@ -1,30 +1,32 @@
 import math
 import sys, json, time, requests, os, re
+import tkinter as tk
+from tkinter.filedialog import askopenfilename
 
 
 def get_data(url, headers, data):
   try:
     response = requests.request("POST", url, headers=headers, data=data)
   except Exception as err:
-    with open('keywords_parse.csv', 'a') as kw_ps:
+    with open(selected_result_file, 'a', encoding='utf8') as kw_ps:
       kw_ps.write(f'error: {err}' + '\n')
     return None
   finally:
     if response.status_code != 200:
       print('Request error')  # ? log error
-      with open('keywords_parse.csv', 'a') as kw_ps:
+      with open(selected_result_file, 'a', encoding='utf8') as kw_ps:
         kw_ps.write('request error' + '\n')
       return None
     elif response.status_code == 403:
       print('403 limit reached')  # ? log error
-      with open('keywords_parse.csv', 'a') as kw_ps:
+      with open(selected_result_file, 'a', encoding='utf8') as kw_ps:
         kw_ps.write('limit reached' + '\n')
       return 'limit_reached'
 
   json_res = json.loads(response.text)
 
   if json_res['Errors']:
-    with open('keywords_parse.csv', 'a') as kw_ps:
+    with open(selected_result_file, 'a', encoding='utf8') as kw_ps:
       for error in json_res['Errors']:
         kw_ps.write(f'{error.get("Message")}')
         print(error.get("Message"))  # ? log error
@@ -60,7 +62,7 @@ def parse_and_write_parts(parts):
       price_break_currency_1 = pb.get('Currency')
 
     try:
-      with open('keywords_parse.csv', 'a') as kw_ps:
+      with open(selected_result_file, 'a', encoding='utf8') as kw_ps:
         try:
           kw_ps.write(';'.join([
             f"{part[value]}" if value in part else "" for value in values[:-3]
@@ -71,12 +73,18 @@ def parse_and_write_parts(parts):
         print(f"An error occurred while writing to the CSV file: {e}")
 
 
-if len(sys.argv) < 2:
-  print('Specify the path to the input file after main.exe\nThe program must be run from the command line!')
-  os.system('pause')
-  sys.exit()
+#? -- starting prompt -- ?#
+tk.Tk().withdraw() # part of the import if you are not using other tkinter functions
 
-file_path = sys.argv[1]
+selected_input_file = askopenfilename()
+if not selected_input_file:
+    print('Необходимо выбрать файл!')
+    os.system('pause')
+    sys.exit()
+
+selected_result_file = 'keyword_parse_data_' + time.strftime("%Y%m%d-%H%M%S") + '.csv'
+#? -- starting prompt -- ?#
+
 
 keywords = []
 url = "https://api.mouser.com/api/v2/search/keyword?apiKey=6d87d3c4-7eb2-46b3-8ebb-4783dac0cba1"
@@ -108,10 +116,10 @@ values = ['Availability',
           'Price',
           'Currency']
 
-with open('keywords_parse.csv', 'a') as kw_ps:
+with open(selected_result_file, 'a', encoding='utf8') as kw_ps:
   kw_ps.write(';'.join([value for value in values]) + '\n')
 
-with open(file_path, 'r') as f:
+with open(selected_input_file, 'r') as f:
   file_rdln = f.readlines()
 
   try:
@@ -133,7 +141,7 @@ for index, keyword in enumerate(keywords):
 
   if limit_reached:
     print('Limit reached')
-    with open('keywords_parse.csv', 'a') as kw_ps:
+    with open(selected_result_file, 'a', encoding='utf8') as kw_ps:
       kw_ps.write('limit reached' + '\n')
     continue
 
@@ -182,3 +190,6 @@ for index, keyword in enumerate(keywords):
 
   # ? debug
   print(f'{index + 1} REQUEST IS COMPLETE.')
+
+print('\nAll keywords parsed!')
+os.system('pause')

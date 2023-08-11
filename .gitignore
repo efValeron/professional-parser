@@ -4,5 +4,6 @@
 *.spec
 
 temp.py
+prompt.py
 
 /build
