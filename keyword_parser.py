@@ -49,11 +49,6 @@ def parse_and_write_parts(parts):
     price_break_price_1 = ''
     price_break_currency_1 = ''
 
-    # print(part['PriceBreaks'])
-    # print(part["MouserPartNumber"], part['PriceBreaks'][0])
-    # if part["MouserPartNumber"] == "792-MOKU-GO-M1-STM":
-    #   print(part["MouserPartNumber"], part["PriceBreaks"][0])
-
     if 'PriceBreaks' in part and len(part["PriceBreaks"]) != 0:
       pb = part['PriceBreaks'][0]
 
@@ -64,10 +59,16 @@ def parse_and_write_parts(parts):
 
       price_break_currency_1 = pb.get('Currency')
 
-    with open('keywords_parse.csv', 'a') as kw_ps:
-      kw_ps.write(';'.join([
-        f"{part[value]}" if value in part else "" for value in values[:-3]
-      ]) + f";{price_break_quantity_1};{price_break_price_1};{price_break_currency_1}\n")
+    try:
+      with open('keywords_parse.csv', 'a') as kw_ps:
+        try:
+          kw_ps.write(';'.join([
+            f"{part[value]}" if value in part else "" for value in values[:-3]
+          ]) + f";{price_break_quantity_1};{price_break_price_1};{price_break_currency_1}\n")
+        except UnicodeEncodeError as e:
+          print(f"UnicodeEncodeError: {e}")
+    except Exception as e:
+        print(f"An error occurred while writing to the CSV file: {e}")
 
 
 if len(sys.argv) < 2:

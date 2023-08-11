@@ -9,28 +9,36 @@ def parse_and_write_parts(parts, all_requested_parts, not_found):
     requested_part_numbers = set(all_requested_parts)
     current_not_found = not_found
     
-    with open('article_parse.csv', 'a') as kw_ps:
-        for requested_part_number in requested_part_numbers:
-            found_part = next((part for part in parts if part["ManufacturerPartNumber"] == requested_part_number), None)
-            
-            if found_part:
-                price_break_quantity_1 = ''
-                price_break_price_1 = ''
-                price_break_currency_1 = ''
-                
-                if 'PriceBreaks' in found_part and len(found_part["PriceBreaks"]) != 0:
-                    pb = found_part['PriceBreaks'][0]
-                    price_break_quantity_1 = str(pb.get('Quantity'))
-                    price = pb.get('Price')
-                    price_break_price_1 = re.search(r"\d+,?\d+", price).group()
-                    price_break_currency_1 = pb.get('Currency')
-                
-                kw_ps.write(f"{requested_part_number};found;" + ';'.join([f"{found_part[value]}" if value in found_part else "" for value in values[2:-3]
-                ]) + f";{price_break_quantity_1};{price_break_price_1};{price_break_currency_1}\n")
-            else:
-                current_not_found += 1
-                kw_ps.write(';'.join([requested_part_number, "not found"] + [""] * (len(values) - 2)) + '\n')
-    return current_not_found
+    try:
+        with open('article_parse.csv', 'a') as kw_ps:
+            for requested_part_number in requested_part_numbers:
+                found_part = next((part for part in parts if part["ManufacturerPartNumber"] == requested_part_number), None)
+                    
+                if found_part:
+                    price_break_quantity_1 = ''
+                    price_break_price_1 = ''
+                    price_break_currency_1 = ''
+                        
+                    if 'PriceBreaks' in found_part and len(found_part["PriceBreaks"]) != 0:
+                        pb = found_part['PriceBreaks'][0]
+                        price_break_quantity_1 = str(pb.get('Quantity'))
+                        price = pb.get('Price')
+                        price_break_price_1 = re.search(r"\d+,?\d+", price).group()
+                        price_break_currency_1 = pb.get('Currency')
+                    try:
+                        kw_ps.write(f"{requested_part_number};found;" + ';'.join([f"{found_part[value]}" if value in found_part else "" for value in values[2:-3]
+                        ]) + f";{price_break_quantity_1};{price_break_price_1};{price_break_currency_1}\n")
+                    except UnicodeEncodeError as e:
+                        print(f"UnicodeEncodeError: {e}")
+                        current_not_found += 1
+                        kw_ps.write(';'.join([requested_part_number, "error"] + [""] * (len(values) - 2)) + '\n')
+                else:
+                    current_not_found += 1
+                    kw_ps.write(';'.join([requested_part_number, "not found"] + [""] * (len(values) - 2)) + '\n')
+        return current_not_found
+    except Exception as e:
+        print(f"An error occurred while writing to the CSV file: {e}")
+        return None
 
 if len(sys.argv) < 2:
     print('Specify the path to the input file after main.exe\nThe program must be run from the command line!')
@@ -151,6 +159,7 @@ for index, articles_arr in enumerate(grouped_articles):
                 not_found += 1
                 kw_ps.write(';'.join([art, "not found"] + [""] * (len(values) - 2)) + '\n')
     else:
-        not_found += parse_and_write_parts(response_parts, articles_arr, not_found)
+        res = parse_and_write_parts(response_parts, articles_arr, not_found)
+        not_found += res if res != None else 0
 
     print(f'{index + 1} REQUEST IS COMPLETE. {not_found} ARTICLES NOT FOUND OUT OF {len(articles_arr)}')

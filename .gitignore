@@ -1,3 +1,8 @@
 *.csv
-*.txt
 *.json
+*.txt
+*.spec
+
+temp.py
+
+/build
